@@ -23,10 +23,11 @@ So the structure is basically this:
 
 - Stow directory
   - Package directory
-    - files relative from your home directory, ie ~/<file>
-    - directories relative from your home directory, ie ~/<dir>
-      - files relative from previous directory, ie ~/<dir>/<file>
-      - directories relative from previous directory, ie ~/<dir>/<dir>
+    - files relative from your home directory
+    - directories relative from your home directory
+      - files relative from previous directory
+      - directories relative from previous directory
+
 Running stow on a package will link to files and / or directories starting from your home directory down. If a subdirectory is put in there, like the bottom one above, it will use the highest common directory entry to link to.
 
 Once you have your structure set up under your stow directory, you can simply go into your stow directory and issue the command stow * or stow packagename and all links will be created.
