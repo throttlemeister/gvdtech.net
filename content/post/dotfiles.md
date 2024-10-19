@@ -27,7 +27,6 @@ So the structure is basically this:
 
     - files relative from your home directory
     - directories relative from your home directory
-
       - files relative from previous directory
       - directories relative from previous directory
 
