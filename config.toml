@@ -61,7 +61,7 @@ pygmentsCodeFences=true
 #  keybase = "https://keybase.io/"
 
 [params.contact]
-  email = "throttlemeister@sport-touring.eu"
+  email = ""
   text= "Email me" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
