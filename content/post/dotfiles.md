@@ -22,9 +22,12 @@ And under ~/.config you will find a symlink called fish to that directory.
 So the structure is basically this:
 
 - Stow directory
+
   - Package directory
+
     - files relative from your home directory
     - directories relative from your home directory
+
       - files relative from previous directory
       - directories relative from previous directory
 
