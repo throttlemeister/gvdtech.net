@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "Linux & Tech"
 
 [params.main]
-  latestPublishHeader = "My latest article"
+  latestPublishHeader = "My latest articles"
 
 [taxonomies]
   design = "designs"
