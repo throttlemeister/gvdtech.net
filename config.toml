@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "This is crashdot.com"
+  main = "crashdot.com"
   sub = "Linux & Tech"
 
 [params.main]
@@ -61,8 +61,8 @@ pygmentsCodeFences=true
 #  keybase = "https://keybase.io/"
 
 [params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "throttlemeister@sport-touring.eu"
+  text= "Email me" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
