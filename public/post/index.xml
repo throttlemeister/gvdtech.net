@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>POST on crashdot.com</title>
+    <title>Articles on crashdot.com</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in POST on crashdot.com</description>
+    <description>Recent content in Articles on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© crashdot.com</copyright>

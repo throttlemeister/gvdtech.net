@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "Linux & Tech"
 
 [params.main]
-  latestPublishHeader = "My Latest Project"
+  latestPublishHeader = "My latest article"
 
 [taxonomies]
   design = "designs"
@@ -26,7 +26,7 @@ pygmentsCodeFences=true
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
   rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
@@ -43,7 +43,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "images/throttlemeister.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
