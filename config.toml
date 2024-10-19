@@ -1,7 +1,7 @@
 baseURL = "https://www.crashdot.com/"
 languageCode = "en-us"
 title = "crashdot.com"
-theme = "personal-web"
+theme = "crashdot"
 copyright="© crashdot.com"
 googleAnalytics = ""
 enableEmoji=true

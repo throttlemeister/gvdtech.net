@@ -1,6 +1,6 @@
 ---
 title: "Transactional updates on OpenSUSE Tumbleweed"
-date: 2024-03-23T15:36:28+02:00
+date: 2024-03-23T13:52:22+02:00
 image: "img/tuxlogo.png"
 draft: false
 weight: 100

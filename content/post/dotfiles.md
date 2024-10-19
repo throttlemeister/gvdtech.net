@@ -24,7 +24,6 @@ So the structure is basically this:
 - Stow directory
 
   - Package directory
-
     - files relative from your home directory
     - directories relative from your home directory
       - files relative from previous directory
