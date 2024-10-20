@@ -31,6 +31,20 @@
       <description>One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.&#xA;There are several ways of doing this, but recently I came across a little tool called GNU stow. It is a much easier way of managing dotfiles than for instance using a git bare repository.</description>
     </item>
     <item>
+      <title>Any Linux distribution on Windows 10 with WSL2</title>
+      <link>http://localhost:1313/post/2021-01-19-any-linux-distribution-on-windows-10-with-wsl2/</link>
+      <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-01-19-any-linux-distribution-on-windows-10-with-wsl2/</guid>
+      <description>Introduction WSL 2 on Windows 10 introduced the ability to run a native linux kernel on your computer while using Windows 10 as your main operating system. Instead of emulating a Linux kernel, like WSL 1 does, WSL 2 uses a lightweight hypervisor to run linux in parallel with Windows.&#xA;To be able to run WSL 2 on Windows 10, installation of Windows 10 feature update 2004 is required.&#xA;An explanation on how to enable WSL2 support can be found on the page detailing how to create a Gentoo instance on WSL2.</description>
+    </item>
+    <item>
+      <title>Gentoo on Windows with WSL2</title>
+      <link>http://localhost:1313/post/2021-01-19-gentoo-on-windows-10-with-wsl2/</link>
+      <pubDate>Tue, 19 Jan 2021 15:55:01 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-01-19-gentoo-on-windows-10-with-wsl2/</guid>
+      <description>**Introduction ** WSL 2 on Windows 10 introduced the ability to run a native linux kernel on your computer while using Windows 10 as your main operating system. Instead of emulating a linux kernel, like WSL 1 does, WSL 2 uses a hypervisor to run linux in parallel with Windows.&#xA;To be able to run WSL 2 on Windows 10, installation of Windows 10 feature update 2004 or newer is required.</description>
+    </item>
+    <item>
       <title>Getting started</title>
       <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
