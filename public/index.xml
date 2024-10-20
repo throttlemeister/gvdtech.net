@@ -31,6 +31,20 @@
       <description>One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.&#xA;There are several ways of doing this, but recently I came across a little tool called GNU stow. It is a much easier way of managing dotfiles than for instance using a git bare repository.</description>
     </item>
     <item>
+      <title>Tested distributions under WSL2</title>
+      <link>http://localhost:1313/post/2021-01-30-tested-distributions-under-wsl2/</link>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-01-30-tested-distributions-under-wsl2/</guid>
+      <description>The following distributions I have installed/created, tested and used under WSL2 and Windows 10.&#xA;Alpine Linux; extremely tiny; created from Docker image AlmaLinux; migrated from CentOS using AlmaLinux migration tool [Arch Linux(https://www.crashdot.com/post/2021-01-19-any-linux-distribution-on-windows-10-with-wsl2/)]; created from virtual machine install CentOS 7; created from rootfs image, then upgraded to latest version CentOS 8; Upgraded from CentOS7 CentOS Stream; upgraded from from CentOS8 install Deepin Linux; created from virtual machine install Debian 10 (Buster); Microsoft Store Debian Testing (Bullseye); upgraded from official Debian 10 release Devuan; migrated from Debian as installed from the Microsoft Store Fedora; created from virtual machine installation Gentoo; compiled from source using Stage3 tarball/rootfs iamge Kali Linux; Microsoft Store Oracle Linux; migrated from CentOS instance using CentOS migration tool from Oracle RedHat Enterprise Linux; created from virtual machine installation Rocky Linux; migrated from CentOS using RockyLinux migration tool Ubuntu; Microsoft Store Slackware; created from Docker image As you can see, if you can find your favorite distribution in the Microsoft Store, great, if not or if its only available as a paid distribution, just bake your own.</description>
+    </item>
+    <item>
+      <title>A couple little Windows things</title>
+      <link>http://localhost:1313/post/2021-01-22-a-couple-little-windows-things/</link>
+      <pubDate>Fri, 22 Jan 2021 13:57:01 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-01-22-a-couple-little-windows-things/</guid>
+      <description>I recently had a discussion on a forum on the usefulness of virtual desktops and the implementation on Windows 10. Now everyone can have their opinions on virtual desktops and I do as well, but in that discussion some things came up that are apparently not so well known.&#xA;Some people find it cumbersome to switch between virtual desktops to the point it becomes unusable for them. They need to go to Task View (WIN+TAB), then use the mouse to click the desktop they want.</description>
+    </item>
+    <item>
       <title>Any Linux distribution on Windows 10 with WSL2</title>
       <link>http://localhost:1313/post/2021-01-19-any-linux-distribution-on-windows-10-with-wsl2/</link>
       <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
