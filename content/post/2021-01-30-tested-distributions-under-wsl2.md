@@ -16,7 +16,7 @@ The following distributions I have installed/created, tested and used under WSL2
 
 1. [Alpine Linux](https://www.crashdot.com/post/2021-01-19-any-linux-distribution-on-windows-10-with-wsl2/); extremely tiny; created from Docker image
 2. [AlmaLinux](https://github.com/AlmaLinux/almalinux-deploy); migrated from CentOS using AlmaLinux migration tool
-3. [Arch Linux(https://www.crashdot.com/post/2021-01-19-any-linux-distribution-on-windows-10-with-wsl2/)]; created from virtual machine install
+3. [Arch Linux](https://www.crashdot.com/post/2021-01-19-any-linux-distribution-on-windows-10-with-wsl2/); created from virtual machine install
 4. [CentOS 7](https://github.com/wsldl-pg/CentWSL); created from rootfs image, then upgraded to latest version
 5. CentOS 8; Upgraded from CentOS7
 6. CentOS Stream; upgraded from from CentOS8 install
