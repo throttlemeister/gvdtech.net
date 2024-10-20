@@ -3,4 +3,4 @@ title: Articles
 description: 'Posts Section'
 ---
 
-You'll add here a general introduction of your posts.
+Please have browse on articles I have written on Linux and other tech related topics.
