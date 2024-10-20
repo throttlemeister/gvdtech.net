@@ -95,8 +95,8 @@ pygmentsCodeFences=true
 
 [privacy]
   [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
+    anonymizeIP = false
+    disable = false
     respectDoNotTrack = true
     useSessionStorage = false
   [privacy.twitter]
