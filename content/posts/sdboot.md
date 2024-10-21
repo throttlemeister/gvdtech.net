@@ -1,7 +1,7 @@
 ---
 title: systemd-boot on OpenSUSE
 description: Switch from GRUB2 to systemd-boot on OpenSUSE
-date: "2024-10-19T23:01:17+02:00"
+date: "2024-03-23T23:01:17+02:00"
 publishDate: "2024-10-19T23:01:17+02:00"
 ---
 I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.
@@ -42,4 +42,5 @@ Then we want to install our kernels, including snapshots so we can actually boot
 Now we’re done. Systemd-boot is installed, GRUB2 is removed and we can reboot our system and enjoy a fast and less bloated setup. If you want to get to the boot menu to boot from a snapshot, just hold the spacebar while booting and it will pop up.
 
 ## Updates
+
 Since this article has been written, systemd-boot has been officially added to the boot options of OpenSUSE Tumbleweed and it is now available during install on an UEFI system.
