@@ -1,110 +1,28 @@
-baseURL = "https://www.crashdot.com/"
-languageCode = "en-us"
+baseurl = "https://www.crashdot.com/"
 title = "crashdot.com"
-theme = "crashdot"
-copyright="© crashdot.com"
-googleAnalytics = "G-1VTGMWJWQC"
-enableEmoji=true
-enableRobotsTXT=true
-pygmentsUseClasses=true
-pygmentsCodeFences=true
+theme = "hugo-theme-console"
+languageCode = "en-us"
 
-[params.intro]
-  main = "crashdot.com"
-  sub = "Linux & Tech"
-
-[params.main]
-  latestPublishHeader = "My latest articles"
-
-[taxonomies]
-  design = "designs"
-  tech = "techs"
-
-[blackfriday]
-  hrefTargetBlank = true
+[services]
+  [services.googleAnalytics]
+    id = "G-1VTGMWJWQC"
 
 [params]
-  breadcrumb = true
-  accentColor = "#FD3519"
-  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
-  rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
 
-[params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
-  h1 = 'Bummer!'
-  p = "It seems that this page doesn't exist."
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
 
-[params.sections]
-  # Define how your sections will be called
-  # when automatically pulled. For instance in the 404 page
-  post = "article"
-  portfolio = "project"
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
 
-[params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "images/throttlemeister.jpg" # - default "/images/edna-west.jpg"
-[params.assets]
-  favicon = ""
-  customCSS = ""
-
-[params.social]
-  github = "https://github.com/throttlemeister"
-#  twitter = "https://twitter.com/"
-#  linkedin = "https://www.linkedin.com/in/"
-#  medium = "https://medium.com/"
-#  codepen = "https://codepen.io/"
-#  facebook = "https://www.facebook.com/"
-#  youtube = "https://www.youtube.com/"
-#  instagram = "https://www.instagram.com/"
-#  gitlab = "https://gitlab.com/"
-#  keybase = "https://keybase.io/"
-
-[params.contact]
-  email = ""
-  text= "Email me" # text of the contact link in the sidebar. If email params.contact.email is defined
-
-
-[menu]
-
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
-  weight = -120
-
-#[[menu.main]]
-#  identifier = "portfolio"
-#  name = "Portfolio"
-#  title = "Portfolio"
-#  url = "/portfolio/"
-#  weight = -110
-
-[[menu.main]]
-  identifier = "blog"
-  name = "Articles"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
-
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = true
-    useSessionStorage = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-    simple = false
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
+# [[params.navlinks]]
+#  name = "photos/"
+#  url = "photos/"

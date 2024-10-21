@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on crashdot.com</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jan 2021 22:16:31 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/tags/windows/</link>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wsl</title>
+      <link>http://localhost:1313/tags/wsl/</link>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wsl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wsl2</title>
+      <link>http://localhost:1313/tags/wsl2/</link>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wsl2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gentoo</title>
+      <link>http://localhost:1313/tags/gentoo/</link>
+      <pubDate>Tue, 19 Jan 2021 15:55:01 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gentoo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

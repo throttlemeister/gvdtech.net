@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on crashdot.com</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jan 2021 22:16:31 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer</title>
+      <link>http://localhost:1313/categories/computer/</link>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
+      <guid>http://localhost:1313/categories/computer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WSL</title>
+      <link>http://localhost:1313/categories/wsl/</link>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
+      <guid>http://localhost:1313/categories/wsl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/categories/windows/</link>
+      <pubDate>Fri, 22 Jan 2021 13:57:01 +0000</pubDate>
+      <guid>http://localhost:1313/categories/windows/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
