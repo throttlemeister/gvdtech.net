@@ -2,6 +2,7 @@ baseurl = "https://www.crashdot.com/"
 title = "crashdot.com"
 theme = "hugo-theme-console"
 languageCode = "en-us"
+copyright = '© crashdot.com'
 
 [services]
   [services.googleAnalytics]

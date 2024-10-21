@@ -6,8 +6,16 @@
     <description>Recent content in Opensuse on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2023 18:54:00 +0000</lastBuildDate>
+    <copyright>© crashdot.com</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 23:50:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSUSE Tumbleweed, 6 months in</title>
+      <link>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</link>
+      <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
+      <guid>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</guid>
+      <description>Well, here we are, 6 months after installing OpenSUSE Tumbleweed and still no urge to change. The only change I am longing for is the update to KDE Plasma 6, which should be coming soon now that it has officially been released.&#xA;Since there are basically no updates since my last post in December, there isn&amp;rsquo;t much to say. I did however made some changes. A couple of weeks ago, my GTX1080 decided to shit itself such that it triggers the short protection in the power supply so that&amp;rsquo;s out.</description>
+    </item>
     <item>
       <title>OpenSUSE: 4 months in</title>
       <link>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</link>

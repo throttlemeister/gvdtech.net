@@ -4,7 +4,7 @@
     
         
         <url>
-            <loc>http://localhost:1313/posts/transactional/</loc>
+            <loc>http://localhost:1313/posts/opensuse/transactional/</loc>
             <lastmod>2024-03-23T13:52:22+02:00</lastmod>
         </url>
         
@@ -18,7 +18,7 @@
     
         
         <url>
-            <loc>http://localhost:1313/posts/dotfiles/</loc>
+            <loc>http://localhost:1313/posts/linux/dotfiles/</loc>
             <lastmod>2024-09-17T13:52:22+02:00</lastmod>
         </url>
         
@@ -32,63 +32,105 @@
     
         
         <url>
-            <loc>http://localhost:1313/posts/sdboot/</loc>
-            <lastmod>2024-01-18T23:01:17+02:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/categories/</loc>
-            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/categories/computer/</loc>
-            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/desktop/</loc>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/desktop/</loc>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/kde/</loc>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/kde/</loc>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/linux/kde-plasma-6-dont-be-fooled-by-the-naysayers-on-the-internet/</loc>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/tags/linux/</loc>
-            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/categories/linux/</loc>
-            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/opensuse/</loc>
-            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/categories/opensuse/</loc>
-            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</loc>
-            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/tags/</loc>
+            <lastmod>2024-05-02T21:34:58+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/opensuse/</loc>
+            <lastmod>2024-03-02T23:50:13+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/opensuse/</loc>
+            <lastmod>2024-03-02T23:50:13+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</loc>
+            <lastmod>2024-03-02T23:50:13+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/opensuse/sdboot/</loc>
+            <lastmod>2024-01-18T23:01:17+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</loc>
             <lastmod>2023-12-04T18:54:00+00:00</lastmod>
         </url>
         
@@ -144,7 +186,7 @@
     
         
         <url>
-            <loc>http://localhost:1313/posts/new-laptop-new-linux-distro/</loc>
+            <loc>http://localhost:1313/posts/linux/new-laptop-new-linux-distro/</loc>
             <lastmod>2023-01-20T14:37:58+00:00</lastmod>
         </url>
         

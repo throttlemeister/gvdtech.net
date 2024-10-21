@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>crashdot.com/posts/linux/kde-plasma-6-dont-be-fooled-by-the-naysayers-on-the-internet/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.4.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="KDE Plasma 6: Don’t be fooled by the naysayers on the internet" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/linux/kde-plasma-6-dont-be-fooled-by-the-naysayers-on-the-internet/" /><meta property="article:published_time" content="2024-05-02T21:34:58+00:00" />
+
+
+
+<meta name="twitter:title" content="KDE Plasma 6: Don’t be fooled by the naysayers on the internet"/>
+<meta name="twitter:description" content="About a month ago, KDE released their much anticipated next major release of the KDE desktop environment, version 6. The only distributions using it soon after were (obviously) KDE Neon, the KDE showcase / development platform, and the rolling release distributions like Arch and OpenSUSE Tumbleweed. The scheduled release distributions will only ship KDE6 in their next new release.
+As it was released, obviously there were some teething problems despite a long and extensive beta test cycle and lots of bigfixing."/>
+
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-1VTGMWJWQC"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-1VTGMWJWQC');
+        }
+      </script>
+    
+  
+
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="http://localhost:1313/" class="no-style site-name">crashdot.com</a>:~# 
+              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/linux'>linux</a>/<a href='http://localhost:1313/posts/linux/kde-plasma-6-dont-be-fooled-by-the-naysayers-on-the-internet'>kde-plasma-6-dont-be-fooled-by-the-naysayers-on-the-internet</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+                <li><a href="http://localhost:1313/about/" typeof="ListItem">about/</a></li>
+                
+                <li><a href="http://localhost:1313/posts/" typeof="ListItem">posts/</a></li>
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container animated zoomIn fast" >
+        
+<h1>KDE Plasma 6: Don’t be fooled by the naysayers on the internet</h1>
+
+May. 2, 2024
+
+
+<br/><br/>
+<p>About a month ago, KDE released their much anticipated next major release of the KDE desktop environment, version 6. The only distributions using it soon after were (obviously) KDE Neon, the KDE showcase / development platform, and the rolling release distributions like Arch and OpenSUSE Tumbleweed. The scheduled release distributions will only ship KDE6 in their next new release.</p>
+<p>As it was released, obviously there were some teething problems despite a long and extensive beta test cycle and lots of bigfixing. Some of these were:</p>
+<ul>
+<li>Upgrade being interrupted if done from the GUI, as the session was killed, halting the upgrade process. Easy fix: just restart the upgrade and it will finish. If doing a reboot, because you didn&rsquo;t notice there was a problem, you would end up without a GUI. The best way to upgrade, was to switch to a TTY screen and upgade from the CLI without a GUI running.</li>
+<li>Sometimes, especially with a custom SDDM theme selected, the SDDM screen would fall back to a very ugly UI and an error. This was not critical and setting SDDM to the default breeze theme typicall fixed this.</li>
+<li>If you used custom themes, plasmoids, plasma addons etc, these could potentially be incompatible with KDE6 and refuse to load. This is annoying but to be expected. Just unload and remove or upgrade. Currently most have been upgraded to work with KDE6, provided they are actively maintained.</li>
+<li>The default session was changed from X11 to Wayland for all users, including those with Nvidia hardware. In some cases this could cause some issues with Wayland not loading but X11 would generally still work.</li>
+</ul>
+<p>For me personally, the experience has been great despite experiencing the first 3 from the above list. They were annoying when it happened but easily fixed. Since the experience has been smooth, my addons have been upgraded by their maintainers and the Wayland experience has been very smooth. I&rsquo;m not the biggest fan of Wayland myself (perhaps I will write about that at some point), but it is the future and having to live with it like it is now with KDE6 is not punishment.</p>
+<p>KDE Plasma 6 has been a great experience for me. It has sane defaults. The tweaks in certain settings and places are very good  example: the panel configuration, thank you KDE team  now you don&rsquo;t need a degree to decipher what some of the things mean.</p>
+<p>It&rsquo;s more of an evolution than a revolution going from KDE5 to KDE6, but what an evolution it is. The best desktop just got better.. And smoother. And more polished.</p>
+
+
+
+        <div class="footer">
+    Powered by <a href="https://gohugo.io/">Hugo</a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>.<br>
+    © crashdot.com
+</div>
+
+    </div>
+  </body>
+</html>

@@ -6,26 +6,41 @@
     <description>Recent content in Categories on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2023 18:54:00 +0000</lastBuildDate>
+    <copyright>© crashdot.com</copyright>
+    <lastBuildDate>Thu, 02 May 2024 21:34:58 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer</title>
       <link>http://localhost:1313/categories/computer/</link>
-      <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
+      <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       <guid>http://localhost:1313/categories/computer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desktop</title>
+      <link>http://localhost:1313/categories/desktop/</link>
+      <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
+      <guid>http://localhost:1313/categories/desktop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KDE</title>
+      <link>http://localhost:1313/categories/kde/</link>
+      <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
+      <guid>http://localhost:1313/categories/kde/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/categories/linux/</link>
-      <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
+      <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       <guid>http://localhost:1313/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenSUSE</title>
       <link>http://localhost:1313/categories/opensuse/</link>
-      <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
+      <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       <guid>http://localhost:1313/categories/opensuse/</guid>
       <description></description>
     </item>
