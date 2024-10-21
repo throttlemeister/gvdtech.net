@@ -13,6 +13,7 @@ tags:
   - wsl2
 
 ---
+
 # Introduction
 
 WSL 2 on Windows 10 introduced the ability to run a native linux kernel on your computer while using Windows 10 as your main operating system. Instead of emulating a linux kernel, like WSL 1 does, WSL 2 uses a hypervisor to run linux in parallel with Windows.  
