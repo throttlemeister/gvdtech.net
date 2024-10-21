@@ -6,8 +6,22 @@
     <description>Recent content in Computer on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jul 2021 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2023 21:33:15 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The end to distro-hopping?</title>
+      <link>http://localhost:1313/the-end-to-distro-hopping/</link>
+      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
+      <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
+      <description>Since I have moved to running Linux basically full time, I have ran Pop!OS, Fedora, Nobara, back to Fedora KDE Spin and now OpenSUSE Tumbleweed. All of them are good distributions and none have any real deal-breakers for me not to want to use them.&#xA;The fact that I really, really like Tumbleweed was not a given. Quite the contrary. OpenSUSE does it&amp;rsquo;s own thing, so it is a bit of a learning curve if you are used to Debian-based or RedHat-based distributions.</description>
+    </item>
+    <item>
+      <title>Running redundant AdGuard@Home DNS servers on Synology</title>
+      <link>http://localhost:1313/posts/server/running-redundant-adguardhome-dns-servers-on-synology/</link>
+      <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
+      <guid>http://localhost:1313/posts/server/running-redundant-adguardhome-dns-servers-on-synology/</guid>
+      <description>This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.&#xA;Problem: you cannot easily, using Docker, run multiple instances of the same program - or different program - while listening on the same port.&#xA;Solution: do not use host or bridge networking, but put the container on the same network as the host using macvlan.&#xA;To achieve this, we need to do the following:</description>
+    </item>
     <item>
       <title>Monitoring your network or homelab using Zabbix and Grafana</title>
       <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
@@ -23,7 +37,7 @@
       <description>Sometimes, there is a bit of confusion as to what the difference is between application containers (Docker, Podman, K8S, OpenShift), system containers (LXC/LXD) and virtualization (KVM, Vmware, Hyper-V, Xen) and when you should use them. I will try to explain the differences as short as possible.&#xA;Application containers Application containers are created with the most minimal environment to run a specific application. This includes the OS and all dependencies for that application.</description>
     </item>
     <item>
-      <title>Did you know… (or, RHEL on LXC/LXD)</title>
+      <title>Did you know... (or, RHEL on LXC/LXD)</title>
       <link>http://localhost:1313/posts/did-you-know/rhel-on-lxc-lxd/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       <guid>http://localhost:1313/posts/did-you-know/rhel-on-lxc-lxd/</guid>

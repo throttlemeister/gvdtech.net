@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>crashdot.com/posts/server/running-redundant-adguardhome-dns-servers-on-synology/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.4.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="Running redundant AdGuard@Home DNS servers on Synology" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/server/running-redundant-adguardhome-dns-servers-on-synology/" /><meta property="article:published_time" content="2023-05-03T12:59:04+00:00" />
+
+
+
+<meta name="twitter:title" content="Running redundant AdGuard@Home DNS servers on Synology"/>
+<meta name="twitter:description" content="This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.
+Problem: you cannot easily, using Docker, run multiple instances of the same program - or different program - while listening on the same port.
+Solution: do not use host or bridge networking, but put the container on the same network as the host using macvlan.
+To achieve this, we need to do the following:"/>
+
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-1VTGMWJWQC"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-1VTGMWJWQC');
+        }
+      </script>
+    
+  
+
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="http://localhost:1313/" class="no-style site-name">crashdot.com</a>:~# 
+              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/server'>server</a>/<a href='http://localhost:1313/posts/server/running-redundant-adguardhome-dns-servers-on-synology'>running-redundant-adguardhome-dns-servers-on-synology</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+                <li><a href="http://localhost:1313/about/" typeof="ListItem">about/</a></li>
+                
+                <li><a href="http://localhost:1313/posts/" typeof="ListItem">posts/</a></li>
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container animated zoomIn fast" >
+        
+<h1>Running redundant AdGuard@Home DNS servers on Synology</h1>
+
+May. 3, 2023
+
+
+<br/><br/>
+<p>This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.</p>
+<p><strong>Problem</strong>: you cannot easily, using Docker, run multiple instances of the same program - or different program - while listening on the same port.</p>
+<p><strong>Solution</strong>: do not use host or bridge networking, but put the container on the same network as the host using macvlan.</p>
+<p>To achieve this, we need to do the following:</p>
+<h1 id="prerequisites">Prerequisites</h1>
+<ul>
+<li>Find the name of the network interface your Synology is using to connect to the network you want your Docker containers to be running on. This can be for instance eth0 for a single interface, or bond0 for when you use channel bonding. You can find this under Control Panel &gt; Network &gt; Network interface. In my case, this is bond0 which is what I will use in the examples below.</li>
+</ul>
+<h1 id="configuring-the-interface">Configuring the interface</h1>
+<p>Now we have to configure the interface Docker can use. We do this by adding a bridge on top of the existing physical interface you use on your network.</p>
+<ul>
+<li>ip link add macvlan-br0 link bond0 type macvlan mode bridge<!-- raw HTML omitted -->This adds a bridge device on top of the physical interface with the name macvlan-br0</li>
+<li>ip addr add 192.168.0.254/32 dev macvlan-br0<!-- raw HTML omitted -->This adds an IP address on the bridge device so the host has an IP address in the range will give to Docker</li>
+<li>ip link set macvlan-br0 up<!-- raw HTML omitted -->This will activate the virtual bridge device</li>
+<li>ip route add 192.168.0.192/26 dev macvlan-br0<!-- raw HTML omitted -->This will add a route to the Docker network so it can be reached</li>
+</ul>
+<p>You will have to put this in a script you can run at boot of your Synology device, as these settings will not retain over a reboot as we have to make them on the commandline and cannot make them in the Synology DSM.</p>
+<pre><code>#!/bin/bash
+#
+# Set timeout to wait host network is up and running
+sleep 60
+#
+# Recreate the host macvlan bridge
+ip link add macvlan-br0 link bond0 type macvlan mode bridge
+ip addr add 192.168.0.254/32 dev macvlan-br0
+ip link set macvlan-br0 up
+ip route add 192.168.0.192/26 dev macvlan-br0&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
+<h1 id="docker">Docker</h1>
+<p>Now that we have set up the host, we can continue creating a new network in Docker that can be used by our containers. To do this, type:</p>
+<pre><code>docker network create -d macvlan \
+--subnet=192.168.0.0/24 \
+--gateway=192.168.0.1 \
+--ip-range=192.168.0.192/26 \
+--aux-address 'host=192.168.0.50' \
+-o parent=bond0 macvlan-br0
+</code></pre>
+<p>This will create a network in Docker on the subnet of your network in a dedicated range of IP addresses using your physical interface and virtual bridge device.</p>
+<p>Do make sure the IP range you specify for Docker is not part of your DHCP scope, if you are also running DHCP or you will get IP conflicts. Docker does not use DHCP, and instead will just hand out IP addresses from this range in order to each container.</p>
+<p>Now you can create your Docker containers as usual and configure them to use this network, instead of the standard host or bridge networks Docker uses by default. You can also assign this network to existing containers if you want.</p>
+<h1 id="install-container">Install container</h1>
+<p>To install AdGuard@Home on your Synology, open Docker, go to Registry and search for adguard</p>
+<p>Double click to download the latest version.</p>
+<p>When it is done downloading, you can go to the Container section, and hit create. A window will popup where you can select your freshly downloaded image.
+Select it and click next to follow the instructions. Configure what you want, but make sure to select the macvlan network when you get to the screen to pick the network.</p>
+<p>Congratulations! Test your new container that is now present on your local network.</p>
+<p><strong>Important note</strong>: if you are running the DNS server on your Synology for your local network, and you want to keep using that, make sure you configure your AdGuard as DNS for your clients, and add the following to your AdGuard DNS configuration under upstream servers:</p>
+<pre><code>[/domain.local/]192.168.0.254:53
+</code></pre>
+<p>This will instruct AdGuard to use the IP address you added to your bridge device at the beginning as the source for resolving domain.local hosts.</p>
+<p>The complete upstream section for me looks something like (I use Cloudfare DNS for internet, and Synology DNS for local addresses):</p>
+<pre><code>tls://1.1.1.1
+tls://1.0.0.1
+[/domain.local/]192.168.0.254:53
+</code></pre>
+<p><strong>Do not</strong> use the real IP address of your Synology host; this is not reachable for Docker and will not work! Use the bridge device address instead.</p>
+
+
+
+        <div class="footer">
+    Powered by <a href="https://gohugo.io/">Hugo</a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
+</div>
+
+    </div>
+  </body>
+</html>

@@ -40,28 +40,63 @@
         
         <url>
             <loc>http://localhost:1313/categories/</loc>
-            <lastmod>2021-07-26T21:30:00+00:00</lastmod>
+            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/categories/computer/</loc>
-            <lastmod>2021-07-26T21:30:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/categories/homelab/</loc>
-            <lastmod>2021-07-26T21:30:00+00:00</lastmod>
+            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/categories/linux/</loc>
-            <lastmod>2021-07-26T21:30:00+00:00</lastmod>
+            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/opensuse/</loc>
+            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/the-end-to-distro-hopping/</loc>
+            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/containers/</loc>
+            <lastmod>2023-05-03T12:59:04+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/homelab/</loc>
+            <lastmod>2023-05-03T12:59:04+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/server/running-redundant-adguardhome-dns-servers-on-synology/</loc>
+            <lastmod>2023-05-03T12:59:04+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/new-laptop-new-linux-distro/</loc>
+            <lastmod>2023-01-20T14:37:58+00:00</lastmod>
         </url>
         
     
@@ -89,13 +124,6 @@
         
         <url>
             <loc>http://localhost:1313/tags/containers/</loc>
-            <lastmod>2021-02-13T10:09:41+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/categories/containers/</loc>
             <lastmod>2021-02-13T10:09:41+00:00</lastmod>
         </url>
         

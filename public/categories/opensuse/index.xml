@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenSUSE on crashdot.com</title>
+    <link>http://localhost:1313/categories/opensuse/</link>
+    <description>Recent content in OpenSUSE on crashdot.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 21:33:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/opensuse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The end to distro-hopping?</title>
+      <link>http://localhost:1313/the-end-to-distro-hopping/</link>
+      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
+      <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
+      <description>Since I have moved to running Linux basically full time, I have ran Pop!OS, Fedora, Nobara, back to Fedora KDE Spin and now OpenSUSE Tumbleweed. All of them are good distributions and none have any real deal-breakers for me not to want to use them.&#xA;The fact that I really, really like Tumbleweed was not a given. Quite the contrary. OpenSUSE does it&amp;rsquo;s own thing, so it is a bit of a learning curve if you are used to Debian-based or RedHat-based distributions.</description>
+    </item>
+  </channel>
+</rss>

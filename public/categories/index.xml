@@ -6,27 +6,41 @@
     <description>Recent content in Categories on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jul 2021 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2023 21:33:15 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer</title>
       <link>http://localhost:1313/categories/computer/</link>
-      <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
+      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
       <guid>http://localhost:1313/categories/computer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Homelab</title>
-      <link>http://localhost:1313/categories/homelab/</link>
-      <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/categories/linux/</link>
-      <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
+      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
       <guid>http://localhost:1313/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenSUSE</title>
+      <link>http://localhost:1313/categories/opensuse/</link>
+      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
+      <guid>http://localhost:1313/categories/opensuse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/categories/containers/</link>
+      <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
+      <guid>http://localhost:1313/categories/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>http://localhost:1313/categories/homelab/</link>
+      <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
+      <guid>http://localhost:1313/categories/homelab/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +48,6 @@
       <link>http://localhost:1313/categories/monitoring/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/monitoring/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Containers</title>
-      <link>http://localhost:1313/categories/containers/</link>
-      <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
-      <guid>http://localhost:1313/categories/containers/</guid>
       <description></description>
     </item>
     <item>
