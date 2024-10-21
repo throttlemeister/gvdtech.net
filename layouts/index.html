@@ -11,7 +11,7 @@ This is my little corner of the web where I put the articles I write on Linux an
 
 <div class="posts-list">
 {{ with .Site.GetPage "/posts" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+    {{ range first 5 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
                 <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
