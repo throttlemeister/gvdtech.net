@@ -6,27 +6,34 @@
     <description>Recent content in Categories on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2023 21:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 18:54:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer</title>
       <link>http://localhost:1313/categories/computer/</link>
-      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
+      <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/computer/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/categories/linux/</link>
-      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
+      <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenSUSE</title>
       <link>http://localhost:1313/categories/opensuse/</link>
-      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
+      <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/opensuse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BSD</title>
+      <link>http://localhost:1313/categories/bsd/</link>
+      <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/bsd/</guid>
       <description></description>
     </item>
     <item>

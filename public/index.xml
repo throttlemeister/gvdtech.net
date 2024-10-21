@@ -23,11 +23,39 @@
       <description>One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.&#xA;There are several ways of doing this, but recently I came across a little tool called GNU stow. It is a much easier way of managing dotfiles than for instance using a git bare repository.</description>
     </item>
     <item>
+      <title>OpenSUSE Tumbleweed, 6 months in</title>
+      <link>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</link>
+      <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
+      <guid>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</guid>
+      <description>Well, here we are, 6 months after installing OpenSUSE Tumbleweed and still no urge to change. The only change I am longing for is the update to KDE Plasma 6, which should be coming soon now that it has officially been released.&#xA;Since there are basically no updates since my last post in December, there isn&amp;rsquo;t much to say. I did however made some changes. A couple of weeks ago, my GTX1080 decided to shit itself such that it triggers the short protection in the power supply so that&amp;rsquo;s out.</description>
+    </item>
+    <item>
       <title>systemd-boot on OpenSUSE</title>
       <link>http://localhost:1313/posts/sdboot/</link>
       <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
       <guid>http://localhost:1313/posts/sdboot/</guid>
       <description>I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.&#xA;Mind you, GRUB2 is very good at what it does. It’s just that I don’t need all it does. All I need is to boot my machine, nothing more, nothing less.</description>
+    </item>
+    <item>
+      <title>OpenSUSE: 4 months in</title>
+      <link>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</link>
+      <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</guid>
+      <description>Maybe it is time for a little update, even if there is not much to say. After 4 months of running OpenSUSE Tumbleweed, I can honestly say I have not had a single moment where I&amp;rsquo;d thought I should maybe look for another distribution because XYZ is getting too annoying.&#xA;Of course it does have some annoyances. Some are with me, like running systemd-boot while it is not officially ready for primetime yet.</description>
+    </item>
+    <item>
+      <title>Interesting (or: first tiling windows manager experience)</title>
+      <link>http://localhost:1313/posts/opensuse/nteresting/</link>
+      <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/opensuse/nteresting/</guid>
+      <description>The other night, I was playing around watching YouTube videos and was watching this one video from Brodie Robertson on how he was now using Hyprland as his daily driver. Usually, I just zone out to other tasks when the topic gets to a tiling window manager, as it is not for me: I have a ultrawide screen on my desktop, with a 3440x1440 resolution and trust me, you do not want to run console fullscreen.</description>
+    </item>
+    <item>
+      <title>No more Windows. FreeBSD instead.</title>
+      <link>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</link>
+      <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</guid>
+      <description>No, I did not stop running OpenSUSE Tumbleweed. That&amp;rsquo;s still my daily driver. I did however wipe my Windows drive and installed FreeBSD instead. I have used FreeBSD quite a lot way back when, and since I hadn&amp;rsquo;t actually booted into Windows for months, I just decided to install FreeBSD on that drive so I could play with it again after I saw KDE is actively supporting FreeBSD for the desktop.</description>
     </item>
     <item>
       <title>The end to distro-hopping?</title>

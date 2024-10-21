@@ -40,28 +40,77 @@
         
         <url>
             <loc>http://localhost:1313/categories/</loc>
-            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/categories/computer/</loc>
-            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/linux/</loc>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/categories/linux/</loc>
-            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/opensuse/</loc>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/categories/opensuse/</loc>
-            <lastmod>2023-08-04T21:33:15+00:00</lastmod>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</loc>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/</loc>
+            <lastmod>2023-12-04T18:54:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/opensuse/nteresting/</loc>
+            <lastmod>2023-10-13T17:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/bsd/</loc>
+            <lastmod>2023-10-10T17:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</loc>
+            <lastmod>2023-10-10T17:00:00+00:00</lastmod>
         </url>
         
     
@@ -137,13 +186,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/</loc>
-            <lastmod>2021-02-13T10:09:41+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/virtualization/</loc>
             <lastmod>2021-02-13T10:09:41+00:00</lastmod>
         </url>
@@ -159,13 +201,6 @@
         
         <url>
             <loc>http://localhost:1313/posts/did-you-know/rhel-on-lxc-lxd/</loc>
-            <lastmod>2021-02-13T09:40:20+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/linux/</loc>
             <lastmod>2021-02-13T09:40:20+00:00</lastmod>
         </url>
         
