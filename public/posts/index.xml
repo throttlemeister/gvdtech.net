@@ -6,7 +6,7 @@
     <description>Recent content in Posts on crashdot.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2024 23:01:17 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 13:52:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transactional updates on OpenSUSE Tumbleweed</title>
@@ -16,18 +16,18 @@
       <description>It’s possible to use transactional or atomic updates on OpenSUSE Tumbleweed and leveraging the snapshot capabilities of btrfs. It’s actually quite simple; all you need to do is to install the command using zipper.&#xA;Important prerequisite: the filesystem must be btrfs.&#xA;sudo zypper in transactional-update This will install the command. Next you want to set up some, to prevent some potential issues.&#xA;# Note: this systemd service is required to create RPM dirs in /var as TU # does not mount /var in the new snapshot to maintain atomicity.</description>
     </item>
     <item>
-      <title>systemd-boot on OpenSUSE</title>
-      <link>http://localhost:1313/posts/sdboot/</link>
-      <pubDate>Sat, 19 Oct 2024 23:01:17 +0200</pubDate>
-      <guid>http://localhost:1313/posts/sdboot/</guid>
-      <description>I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.&#xA;Mind you, GRUB2 is very good at what it does. It’s just that I don’t need all it does. All I need is to boot my machine, nothing more, nothing less.</description>
-    </item>
-    <item>
       <title>Managing dotfiles using stow on Linux</title>
       <link>http://localhost:1313/posts/dotfiles/</link>
       <pubDate>Tue, 17 Sep 2024 13:52:22 +0200</pubDate>
       <guid>http://localhost:1313/posts/dotfiles/</guid>
       <description>One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.&#xA;There are several ways of doing this, but recently I came across a little tool called GNU stow. It is a much easier way of managing dotfiles than for instance using a git bare repository.</description>
+    </item>
+    <item>
+      <title>systemd-boot on OpenSUSE</title>
+      <link>http://localhost:1313/posts/sdboot/</link>
+      <pubDate>Sat, 19 Oct 2024 23:01:17 +0200</pubDate>
+      <guid>http://localhost:1313/posts/sdboot/</guid>
+      <description>I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.&#xA;Mind you, GRUB2 is very good at what it does. It’s just that I don’t need all it does. All I need is to boot my machine, nothing more, nothing less.</description>
     </item>
     <item>
       <title>Tested distributions under WSL2</title>

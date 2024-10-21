@@ -87,15 +87,6 @@ This is my little corner of the web where I put the articles I write on Linux an
     
         <div class="post">
             <p>
-                <div class="date">Oct. 19, 2024</div>
-                <h1><a href="http://localhost:1313/posts/sdboot/" title="systemd-boot on OpenSUSE">systemd-boot on OpenSUSE</a></h1>
-                I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.
-Mind you, GRUB2 is very good at what it does. It’s just that I don’t need all it does. All I need is to boot my machine, nothing more, nothing less.
-            </p>
-        </div>    
-    
-        <div class="post">
-            <p>
                 <div class="date">Sep. 17, 2024</div>
                 <h1><a href="http://localhost:1313/posts/dotfiles/" title="Managing dotfiles using stow on Linux">Managing dotfiles using stow on Linux</a></h1>
                 One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.
@@ -111,6 +102,33 @@ There are several ways of doing this, but recently I came across a little tool c
 Important prerequisite: the filesystem must be btrfs.
 sudo zypper in transactional-update This will install the command. Next you want to set up some, to prevent some potential issues.
 # Note: this systemd service is required to create RPM dirs in /var as TU # does not mount /var in the new snapshot to maintain atomicity.
+            </p>
+        </div>    
+    
+        <div class="post">
+            <p>
+                <div class="date">Jan. 18, 2024</div>
+                <h1><a href="http://localhost:1313/posts/sdboot/" title="systemd-boot on OpenSUSE">systemd-boot on OpenSUSE</a></h1>
+                I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.
+Mind you, GRUB2 is very good at what it does. It’s just that I don’t need all it does. All I need is to boot my machine, nothing more, nothing less.
+            </p>
+        </div>    
+    
+        <div class="post">
+            <p>
+                <div class="date">Jan. 30, 2021</div>
+                <h1><a href="http://localhost:1313/posts/wsl/tested-distributions-under-wsl2/" title="Tested distributions under WSL2">Tested distributions under WSL2</a></h1>
+                The following distributions I have installed/created, tested and used under WSL2 and Windows 10.
+Alpine Linux; extremely tiny; created from Docker image AlmaLinux; migrated from CentOS using AlmaLinux migration tool Arch Linux; created from virtual machine install CentOS 7; created from rootfs image, then upgraded to latest version CentOS 8; Upgraded from CentOS7 CentOS Stream; upgraded from from CentOS8 install Deepin Linux; created from virtual machine install Debian 10 (Buster); Microsoft Store Debian Testing (Bullseye); upgraded from official Debian 10 release Devuan; migrated from Debian as installed from the Microsoft Store Fedora; created from virtual machine installation Gentoo; compiled from source using Stage3 tarball/rootfs iamge Kali Linux; Microsoft Store Oracle Linux; migrated from CentOS instance using CentOS migration tool from Oracle RedHat Enterprise Linux; created from virtual machine installation Rocky Linux; migrated from CentOS using RockyLinux migration tool Ubuntu; Microsoft Store Slackware; created from Docker image As you can see, if you can find your favorite distribution in the Microsoft Store, great, if not or if its only available as a paid distribution, just bake your own.
+            </p>
+        </div>    
+    
+        <div class="post">
+            <p>
+                <div class="date">Jan. 22, 2021</div>
+                <h1><a href="http://localhost:1313/posts/little-windows-things/" title="A couple little Windows things">A couple little Windows things</a></h1>
+                I recently had a discussion on a forum on the usefulness of virtual desktops and the implementation on Windows 10. Now everyone can have their opinions on virtual desktops and I do as well, but in that discussion some things came up that are apparently not so well known.
+Some people find it cumbersome to switch between virtual desktops to the point it becomes unusable for them. They need to go to Task View (WIN+TAB), then use the mouse to click the desktop they want.
             </p>
         </div>    
     

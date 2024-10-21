@@ -1,8 +1,8 @@
 ---
 title: systemd-boot on OpenSUSE
 description: Switch from GRUB2 to systemd-boot on OpenSUSE
-date: "2024-03-23T23:01:17+02:00"
-publishDate: "2024-10-19T23:01:17+02:00"
+date: "2024-01-18T23:01:17+02:00"
+publishDate: "2024-01-18T23:01:17+02:00"
 ---
 I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.
 
