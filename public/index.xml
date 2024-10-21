@@ -87,6 +87,27 @@
       <description>I finally got fed up with my Macbook Pro as a Linux laptop. It was a 2012 model, no longer supported by Apple. But the quirky implementation of Nvidia discrete graphics on the Macbook wasn&amp;rsquo;t the best for reliable Linux operation. Mind you, Nvidia is always a bit of a challenge, but Apple being Apple certainly does not help in that regard.&#xA;Anyway, I am currently sporting a Lenovo T460 from 2016.</description>
     </item>
     <item>
+      <title>Upgraded laptop to Fedora 36</title>
+      <link>http://localhost:1313/posts/linux/upgraded-laptop-to-fedora-36/</link>
+      <pubDate>Sun, 15 May 2022 14:44:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux/upgraded-laptop-to-fedora-36/</guid>
+      <description>Upgrade was smooth as is to be expected with Fedora and everything is running smooth. Libadwaita is not as bad as I thought it to be, and it actually looks really good. I wish they had taken the time and effort to create a GTK3 theme for applications that are not libadwaita aware, but fortunately someone else did. It does look horribly inconsistent without. Bad move.&#xA;Other than this, I do not miss the theming at the moment now that I added some transparency in the top bar and dock.</description>
+    </item>
+    <item>
+      <title>Optimizing Linux for desktop performance</title>
+      <link>http://localhost:1313/posts/linux/optimizing-linux-for-desktop-performance/</link>
+      <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux/optimizing-linux-for-desktop-performance/</guid>
+      <description>My daily driver is currently Pop!_OS, which is a desktop Linux distribution. It&amp;rsquo;s a very nice distribution, really good with Nvidia hardware (which isn&amp;rsquo;t a given on Linux) and, to me, a Gnome look that is very close to what I want so my GUI changes are minimal.&#xA;What&amp;rsquo;s less, and that is a more generic Linux problem, is that particularly the Linux kernel is optimized for server use and not desktop.</description>
+    </item>
+    <item>
+      <title>Moving a Linux install to a new disk</title>
+      <link>http://localhost:1313/posts/linux/moving-a-linux-install-to-a-new-disk/</link>
+      <pubDate>Mon, 08 Nov 2021 19:54:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux/moving-a-linux-install-to-a-new-disk/</guid>
+      <description>Recently I had to move my Linux install from one drive to another, as I was experiencing some issues with a WD SN550 nvme drive causing some short random freezes of the GUI with IO intensive tasks. Since I also have a Samsung nvme drive installed, I decided to see if the problem persists on the other drive.&#xA;But. Having a fully configured and customized Linux install is a pain in the behind to redo.</description>
+    </item>
+    <item>
       <title>Monitoring your network or homelab using Zabbix and Grafana</title>
       <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>

@@ -193,6 +193,27 @@
     
         
         <url>
+            <loc>http://localhost:1313/posts/linux/upgraded-laptop-to-fedora-36/</loc>
+            <lastmod>2022-05-15T14:44:57+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/linux/optimizing-linux-for-desktop-performance/</loc>
+            <lastmod>2021-11-17T19:31:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/linux/moving-a-linux-install-to-a-new-disk/</loc>
+            <lastmod>2021-11-08T19:54:03+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/categories/monitoring/</loc>
             <lastmod>2021-07-26T21:30:00+00:00</lastmod>
         </url>

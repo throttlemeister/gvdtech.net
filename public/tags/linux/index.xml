@@ -31,6 +31,20 @@
       <description>Maybe it is time for a little update, even if there is not much to say. After 4 months of running OpenSUSE Tumbleweed, I can honestly say I have not had a single moment where I&amp;rsquo;d thought I should maybe look for another distribution because XYZ is getting too annoying.&#xA;Of course it does have some annoyances. Some are with me, like running systemd-boot while it is not officially ready for primetime yet.</description>
     </item>
     <item>
+      <title>Optimizing Linux for desktop performance</title>
+      <link>http://localhost:1313/posts/linux/optimizing-linux-for-desktop-performance/</link>
+      <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux/optimizing-linux-for-desktop-performance/</guid>
+      <description>My daily driver is currently Pop!_OS, which is a desktop Linux distribution. It&amp;rsquo;s a very nice distribution, really good with Nvidia hardware (which isn&amp;rsquo;t a given on Linux) and, to me, a Gnome look that is very close to what I want so my GUI changes are minimal.&#xA;What&amp;rsquo;s less, and that is a more generic Linux problem, is that particularly the Linux kernel is optimized for server use and not desktop.</description>
+    </item>
+    <item>
+      <title>Moving a Linux install to a new disk</title>
+      <link>http://localhost:1313/posts/linux/moving-a-linux-install-to-a-new-disk/</link>
+      <pubDate>Mon, 08 Nov 2021 19:54:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux/moving-a-linux-install-to-a-new-disk/</guid>
+      <description>Recently I had to move my Linux install from one drive to another, as I was experiencing some issues with a WD SN550 nvme drive causing some short random freezes of the GUI with IO intensive tasks. Since I also have a Samsung nvme drive installed, I decided to see if the problem persists on the other drive.&#xA;But. Having a fully configured and customized Linux install is a pain in the behind to redo.</description>
+    </item>
+    <item>
       <title>Did you know... (or, RHEL on LXC/LXD)</title>
       <link>http://localhost:1313/posts/did-you-know/rhel-on-lxc-lxd/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
