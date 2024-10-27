@@ -4,6 +4,8 @@ description: Switch from GRUB2 to systemd-boot on OpenSUSE
 date: "2024-01-18T23:01:17+02:00"
 publishDate: "2024-01-18T23:01:17+02:00"
 ---
+## Introduction
+
 I am weird sometimes, I know. Ever since I used Pop!OS, which uses systemd-boot as default boot manager, I have fallen in love with it. The simplicity and speed of systemd-boot versus the complexity and bulk of GRUB2 just won me over.
 
 Mind you, GRUB2 is very good at what it does. It’s just that I don’t need all it does. All I need is to boot my machine, nothing more, nothing less. My laptop, on which I am typing this, only has OpenSUSE installed. No dual boot, nothing. My desktop boots OpenSUSE and FreeBSD at the moment, but they do so from seperate disks with their own bootloader. Nice and simple.

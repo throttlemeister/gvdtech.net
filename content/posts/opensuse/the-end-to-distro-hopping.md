@@ -10,6 +10,8 @@ categories:
   - OpenSUSE
 
 ---
+## Introduction
+
 Since I have moved to running Linux basically full time, I have ran Pop!OS, Fedora, Nobara, back to Fedora KDE Spin and now OpenSUSE Tumbleweed. All of them are good distributions and none have any real deal-breakers for me not to want to use them.
 
 The fact that I really, really like Tumbleweed was not a given. Quite the contrary. OpenSUSE does it's own thing, so it is a bit of a learning curve if you are used to Debian-based or RedHat-based distributions. It is one of the oldest distributions still operating today, which puts it in the same company as Debian and Slackware. The latter actually being the initial origins for (then) SUSE Linux.
@@ -17,6 +19,8 @@ The fact that I really, really like Tumbleweed was not a given. Quite the contra
 But I digress. My experience with SUSE in the past (=20 odd years ago) was less than favorable to the point that I abandoned it and never really looked at it again until now. Installation was painless and it let you choose your desired desktop environment as part of the installation procedure. I run KDE, which is the first option and let it do its thing.
 
 After install I was back in business. Mind you: I have /home on a seperate disk, so all I have to do when reinstalling or using a new distribution is to make sure that drive is mounted on /home and I have all my (program) settings back and my desktop just looks the same as before. Saves me time to set everything up the way I want again and no data loss when doing a reinstall.
+
+## Obervations
 
 Some observations after installing OpenSUSE Tumbleweed:
 
@@ -27,9 +31,11 @@ Some observations after installing OpenSUSE Tumbleweed:
 - Installation of proprietary drivers and codecs is easy and painless, as with most distributions. That said, I think OpenSUSE is the only distro where the Nvidia drivers come straight from a repo at Nvidia.
 - It's (Tumbleweed) a rolling distribution, so always the latest software but it is better tested than something like Arch. This means less issues are likely to arise.
 
-Some inconveniences I ran into:
+## Inconveniences
 
 - Both my laptop and desktop were unable to load Wayland and had to use Xorg. This is not a big thing. This was caused by a SDDM bug where the SHELL variable got messed up if you use the fish shell as you login shell. This has been fixed by the KDE team in '21/'22, but the fix was never backported to OpenSUSE by the OpenSUSE team. Workaround was to change the login shell to standard bash, and just tell the terminal app to start with the fish shell. Now I can run Wayland on my laptop, while still using Xorg on my desktop as it work just works better with Nvidia graphics. But it will run Wayland if I want to.
+
+## Other stuff
 
 Other things I did after installing Tumbleweed are not OpenSUSE specific things, but more generic Linux optimizations I have made.
 
@@ -71,5 +77,7 @@ These are set in KDE settings under power management, see screenshot:
 - I also set some sysctl parameters as outlined in another post.
 
 Like I said, these are not Tumbleweed or OpenSUSE specific optimizations or even necessary, but it is how I prefer to set up my systems. I feel it helps me to squeeze out the most performance out of my systems, and in the case of the laptop, preserve battery life when needed.
+
+## Conclusion
 
 When all is said and done, I really like OpenSUSE Tumbleweed. I like the bootable snapshots. I like having the latest versions of different software without having to wait for a next release. I like the tools provided to admin the system. It's a good'un. I think I'll keep it. Then again, I said that of Fedora. And Nobara. But I do think it is true this time.

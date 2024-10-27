@@ -1,13 +1,17 @@
 ---
 title: "Transactional updates on OpenSUSE Tumbleweed"
 date: 2024-03-23T13:52:22+02:00
+publishDate: "2024-03-23T23:01:17+02:00"
 image: "img/tuxlogo.png"
 draft: false
-weight: 100
 author: "throttlemeister"
 ---
+## Introduction
+
 It’s possible to use transactional or atomic updates on OpenSUSE Tumbleweed and leveraging the snapshot capabilities of btrfs. It’s actually quite simple; all you need to do is to install the command using zipper.
 
+## How
+>
 >Important prerequisite: the filesystem must be btrfs.
 
     sudo zypper in transactional-update
@@ -24,9 +28,11 @@ That’s basically it. Now if you run the command:
 
 The system will create a new snapshot, check for updates, install updates on that snapshot and set that snapshot to boot. If there are no updates, the snapshot is removed again.
 
-**Keep in mind, and this is important: any changes you make to the root filesystem will be gone after you reboot into the new snapshot.**
+>**Keep in mind, and this is important: any changes you make to the root filesystem will be gone after you reboot into the new snapshot.**
 
 This is expected behavior, but it does mean if you want or need to make changes you need to make sure you reboot first.
+
+## Conclusion
 
 Why would you want this? If you need to apply a big update and you don’t want it to interrupt your work or avoid processes being restarted, you can apply the update on a new snapshot without it interfering or making changes in any way on the running system.
 
