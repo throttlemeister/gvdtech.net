@@ -32,7 +32,7 @@ parent = "Categories"
 weight = 3
 
 [[main]]
-name = "Qcuiky"
+name = "Quicky"
 pageRef = "/posts/quicky"
 parent = "Categories"
 weight = 4
