@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containers on crashdot.com</title>
+    <link>http://localhost:1313/categories/containers/</link>
+    <description>Recent content in Containers on crashdot.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Linux and Tech</copyright>
+    <lastBuildDate>Wed, 03 May 2023 12:59:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/containers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running redundant AdGuard@Home DNS servers on Synology</title>
+      <link>http://localhost:1313/posts/linux/running-redundant-adguardhome-dns-servers-on-synology/</link>
+      <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linux/running-redundant-adguardhome-dns-servers-on-synology/</guid>
+      <description>Introduction # This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.</description>
+      
+    </item>
+    
+    <item>
+      <title>As short as possible: application containers, system containers, virtualization</title>
+      <link>http://localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</link>
+      <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</guid>
+      <description>Introduction # Sometimes, there is a bit of confusion as to what the difference is between application containers (Docker, Podman, K8S, OpenShift), system containers (LXC/LXD) and virtualization (KVM, Vmware, Hyper-V, Xen) and when you should use them.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
