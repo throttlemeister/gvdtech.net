@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Tue, 17 Sep 2024 13:52:22 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>changes</title>
+      <link>http://localhost:1313/posts/stuff/changes/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/stuff/changes/</guid>
+      <description>Introduction # If you have been here before, you will have noticed some changes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stuff/changes/featured.png" />
+    </item>
+    
     <item>
       <title>Managing dotfiles using stow on Linux</title>
       <link>http://localhost:1313/posts/linux/dotfiles/</link>
@@ -15,17 +25,17 @@
       
       <guid>http://localhost:1313/posts/linux/dotfiles/</guid>
       <description>Intro # One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/dotfiles/featured.jpg" />
     </item>
     
     <item>
       <title>KDE Plasma 6: Don’t be fooled by the naysayers on the internet</title>
-      <link>http://localhost:1313/posts/linux/kde-plasma-6-dont-be-fooled-by-the-naysayers-on-the-internet/</link>
+      <link>http://localhost:1313/posts/linux/kde6/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/kde-plasma-6-dont-be-fooled-by-the-naysayers-on-the-internet/</guid>
+      <guid>http://localhost:1313/posts/linux/kde6/</guid>
       <description>Introduction # About a month ago, KDE released their much anticipated next major release of the KDE desktop environment, version 6.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/kde6/featured.jpg" />
     </item>
     
     <item>
@@ -35,17 +45,17 @@
       
       <guid>http://localhost:1313/posts/opensuse/transactional/</guid>
       <description>Introduction # It’s possible to use transactional or atomic updates on OpenSUSE Tumbleweed and leveraging the snapshot capabilities of btrfs.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/transactional/featured.png" />
     </item>
     
     <item>
       <title>OpenSUSE Tumbleweed, 6 months in</title>
-      <link>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</link>
+      <link>http://localhost:1313/posts/opensuse/6months/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</guid>
+      <guid>http://localhost:1313/posts/opensuse/6months/</guid>
       <description>Well, here we are, 6 months after installing OpenSUSE Tumbleweed and still no urge to change.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/6months/featured.png" />
     </item>
     
     <item>
@@ -55,27 +65,27 @@
       
       <guid>http://localhost:1313/posts/opensuse/sdboot/</guid>
       <description>Introduction # I am weird sometimes, I know.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/sdboot/featured.png" />
     </item>
     
     <item>
       <title>OpenSUSE: 4 months in</title>
-      <link>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</link>
+      <link>http://localhost:1313/posts/opensuse/4months/</link>
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</guid>
+      <guid>http://localhost:1313/posts/opensuse/4months/</guid>
       <description>Maybe it is time for a little update, even if there is not much to say.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/4months/featured.png" />
     </item>
     
     <item>
       <title>Interesting (or: first tiling windows manager experience)</title>
-      <link>http://localhost:1313/posts/linux/nteresting/</link>
+      <link>http://localhost:1313/posts/linux/interresting/</link>
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/nteresting/</guid>
+      <guid>http://localhost:1313/posts/linux/interresting/</guid>
       <description>The other night, I was playing around watching YouTube videos and was watching this one video from Brodie Robertson on how he was now using Hyprland as his daily driver.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/interresting/featured.jpg" />
     </item>
     
     <item>
@@ -95,17 +105,17 @@
       
       <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
       <description>Introduction # Since I have moved to running Linux basically full time, I have ran Pop!</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-end-to-distro-hopping/featured.png" />
     </item>
     
     <item>
       <title>Running redundant AdGuard@Home DNS servers on Synology</title>
-      <link>http://localhost:1313/posts/linux/running-redundant-adguardhome-dns-servers-on-synology/</link>
+      <link>http://localhost:1313/posts/linux/adguard/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/running-redundant-adguardhome-dns-servers-on-synology/</guid>
+      <guid>http://localhost:1313/posts/linux/adguard/</guid>
       <description>Introduction # This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/adguard/featured.jpg" />
     </item>
     
     <item>
@@ -120,42 +130,42 @@
     
     <item>
       <title>New laptop, new Linux distro</title>
-      <link>http://localhost:1313/posts/linux/new-laptop-new-linux-distro/</link>
+      <link>http://localhost:1313/posts/linux/new-laptop/</link>
       <pubDate>Fri, 20 Jan 2023 14:37:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/new-laptop-new-linux-distro/</guid>
+      <guid>http://localhost:1313/posts/linux/new-laptop/</guid>
       <description>Introduction # I finally got fed up with my Macbook Pro as a Linux laptop.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/new-laptop/featured.jpg" />
     </item>
     
     <item>
       <title>Upgraded laptop to Fedora 36</title>
-      <link>http://localhost:1313/posts/linux/upgraded-laptop-to-fedora-36/</link>
+      <link>http://localhost:1313/posts/linux/fedora36/</link>
       <pubDate>Sun, 15 May 2022 14:44:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/upgraded-laptop-to-fedora-36/</guid>
+      <guid>http://localhost:1313/posts/linux/fedora36/</guid>
       <description>Upgrade was smooth as is to be expected with Fedora and everything is running smooth.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/fedora36/featured.jpg" />
     </item>
     
     <item>
       <title>Optimizing Linux for desktop performance</title>
-      <link>http://localhost:1313/posts/linux/optimizing-linux-for-desktop-performance/</link>
+      <link>http://localhost:1313/posts/linux/performance/</link>
       <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/optimizing-linux-for-desktop-performance/</guid>
+      <guid>http://localhost:1313/posts/linux/performance/</guid>
       <description>Introduction # My daily driver is currently Pop!</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/performance/featured.jpg" />
     </item>
     
     <item>
       <title>Moving a Linux install to a new disk</title>
-      <link>http://localhost:1313/posts/linux/moving-a-linux-install-to-a-new-disk/</link>
+      <link>http://localhost:1313/posts/linux/moving/</link>
       <pubDate>Mon, 08 Nov 2021 19:54:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/moving-a-linux-install-to-a-new-disk/</guid>
+      <guid>http://localhost:1313/posts/linux/moving/</guid>
       <description>Introduction # Recently I had to move my Linux install from one drive to another, as I was experiencing some issues with a WD SN550 nvme drive causing some short random freezes of the GUI with IO intensive tasks.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/moving/featured.jpg" />
     </item>
     
     <item>
@@ -180,12 +190,12 @@
     
     <item>
       <title>Did you know... (or, RHEL on LXC/LXD)</title>
-      <link>http://localhost:1313/posts/linux/rhel-on-lxc-lxd/</link>
+      <link>http://localhost:1313/posts/linux/rhel-on-lxc/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/rhel-on-lxc-lxd/</guid>
+      <guid>http://localhost:1313/posts/linux/rhel-on-lxc/</guid>
       <description>There are no RedHat Enterprise Linux (RHEL) LXC/LXD container images publicly available?</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/rhel-on-lxc/featured.jpg" />
     </item>
     
     <item>

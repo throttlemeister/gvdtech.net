@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Wed, 08 Mar 2023 08:52:34 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/stuff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>changes</title>
+      <link>http://localhost:1313/posts/stuff/changes/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/stuff/changes/</guid>
+      <description>Introduction # If you have been here before, you will have noticed some changes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stuff/changes/featured.png" />
+    </item>
+    
     <item>
       <title>Why the F1 Academy is bad for women in racing</title>
       <link>http://localhost:1313/posts/stuff/2023-03-08-why-the-f1-academy-is-bad-for-women-in-racing/</link>
