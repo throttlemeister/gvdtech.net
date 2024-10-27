@@ -5,13 +5,13 @@ none = "none"
 name = "Home"
 pageRef = "/"
 identifier = "FKEszI1rPZ"
-weight = 9999
+weight = 7
 
 [[main]]
 name = "Articles"
 pageRef = "/posts"
 identifier = "yr6CO5lK5F"
-weight = 9998
+weight = 6
 
 [[main]]
 name = "Linux"
