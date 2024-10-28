@@ -20,12 +20,12 @@
     
     <item>
       <title>Did you know... (or, RHEL on LXC/LXD)</title>
-      <link>http://localhost:1313/posts/linux/rhel-on-lxc-lxd/</link>
+      <link>http://localhost:1313/posts/linux/rhel-on-lxc/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/rhel-on-lxc-lxd/</guid>
+      <guid>http://localhost:1313/posts/linux/rhel-on-lxc/</guid>
       <description>There are no RedHat Enterprise Linux (RHEL) LXC/LXD container images publicly available?</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/rhel-on-lxc/featured.jpg" />
     </item>
     
   </channel>

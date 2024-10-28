@@ -9,16 +9,6 @@
     <copyright>© 2024 Linux and Tech</copyright>
     <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>changes</title>
-      <link>http://localhost:1313/posts/1730064994362-changes/</link>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/1730064994362-changes/</guid>
-      <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730064994362-changes/featured.png" />
-    </item>
-    
-    <item>
       <title>No more Windows. FreeBSD instead.</title>
       <link>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</link>
       <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>

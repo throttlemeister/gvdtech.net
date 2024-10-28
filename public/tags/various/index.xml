@@ -10,12 +10,12 @@
     <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/various/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>changes</title>
-      <link>http://localhost:1313/posts/1730064994362-changes/</link>
+      <link>http://localhost:1313/posts/stuff/changes/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1730064994362-changes/</guid>
+      <guid>http://localhost:1313/posts/stuff/changes/</guid>
       <description>Introduction # If you have been here before, you will have noticed some changes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1730064994362-changes/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stuff/changes/featured.png" />
     </item>
     
   </channel>

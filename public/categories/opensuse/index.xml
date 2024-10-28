@@ -10,32 +10,32 @@
     <lastBuildDate>Sat, 02 Mar 2024 23:50:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/opensuse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenSUSE Tumbleweed, 6 months in</title>
-      <link>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</link>
+      <link>http://localhost:1313/posts/opensuse/6months/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/opensuse-tumbleweed-6-months-in/</guid>
+      <guid>http://localhost:1313/posts/opensuse/6months/</guid>
       <description>Well, here we are, 6 months after installing OpenSUSE Tumbleweed and still no urge to change.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/6months/featured.png" />
     </item>
     
     <item>
       <title>OpenSUSE: 4 months in</title>
-      <link>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</link>
+      <link>http://localhost:1313/posts/opensuse/4months/</link>
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/opensuse-4-months-in/</guid>
+      <guid>http://localhost:1313/posts/opensuse/4months/</guid>
       <description>Maybe it is time for a little update, even if there is not much to say.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/4months/featured.png" />
     </item>
     
     <item>
       <title>Interesting (or: first tiling windows manager experience)</title>
-      <link>http://localhost:1313/posts/linux/nteresting/</link>
+      <link>http://localhost:1313/posts/linux/interresting/</link>
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/nteresting/</guid>
+      <guid>http://localhost:1313/posts/linux/interresting/</guid>
       <description>The other night, I was playing around watching YouTube videos and was watching this one video from Brodie Robertson on how he was now using Hyprland as his daily driver.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/interresting/featured.jpg" />
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       
       <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
       <description>Introduction # Since I have moved to running Linux basically full time, I have ran Pop!</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-end-to-distro-hopping/featured.png" />
     </item>
     
   </channel>
