@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on crashdot.com</title>
-    <link>http://localhost:1313/tags/tag/</link>
+    <link>https://example.org/tags/tag/</link>
     <description>Recent content in Tag on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>12months</title>
-      <link>http://localhost:1313/posts/opensuse/12months/</link>
+      <title>One year of Tumbleweed</title>
+      <link>https://example.org/posts/opensuse/12months/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/12months/</guid>
+      <guid>https://example.org/posts/opensuse/12months/</guid>
       <description>Introduction # Well, here we are.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/12months/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/opensuse/12months/featured.png" />
     </item>
     
   </channel>

@@ -2,238 +2,238 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on crashdot.com</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
+      <link>https://example.org/tags/example/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>https://example.org/tags/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Index</title>
-      <link>http://localhost:1313/tags/index/</link>
+      <link>https://example.org/tags/index/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/index/</guid>
+      <guid>https://example.org/tags/index/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
+      <link>https://example.org/tags/tag/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag/</guid>
+      <guid>https://example.org/tags/tag/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Various</title>
-      <link>http://localhost:1313/tags/various/</link>
+      <link>https://example.org/tags/various/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/various/</guid>
+      <guid>https://example.org/tags/various/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Desktop</title>
-      <link>http://localhost:1313/tags/desktop/</link>
+      <link>https://example.org/tags/desktop/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/desktop/</guid>
+      <guid>https://example.org/tags/desktop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kde</title>
-      <link>http://localhost:1313/tags/kde/</link>
+      <link>https://example.org/tags/kde/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/kde/</guid>
+      <guid>https://example.org/tags/kde/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>https://example.org/tags/linux/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>https://example.org/tags/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Opensuse</title>
-      <link>http://localhost:1313/tags/opensuse/</link>
+      <link>https://example.org/tags/opensuse/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/opensuse/</guid>
+      <guid>https://example.org/tags/opensuse/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>F1</title>
-      <link>http://localhost:1313/tags/f1/</link>
+      <link>https://example.org/tags/f1/</link>
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/f1/</guid>
+      <guid>https://example.org/tags/f1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>F1Academy</title>
-      <link>http://localhost:1313/tags/f1academy/</link>
+      <link>https://example.org/tags/f1academy/</link>
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/f1academy/</guid>
+      <guid>https://example.org/tags/f1academy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Racing</title>
-      <link>http://localhost:1313/tags/racing/</link>
+      <link>https://example.org/tags/racing/</link>
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/racing/</guid>
+      <guid>https://example.org/tags/racing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Containers</title>
-      <link>http://localhost:1313/tags/containers/</link>
+      <link>https://example.org/tags/containers/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/containers/</guid>
+      <guid>https://example.org/tags/containers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kvm</title>
-      <link>http://localhost:1313/tags/kvm/</link>
+      <link>https://example.org/tags/kvm/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/kvm/</guid>
+      <guid>https://example.org/tags/kvm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Virtualization</title>
-      <link>http://localhost:1313/tags/virtualization/</link>
+      <link>https://example.org/tags/virtualization/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/virtualization/</guid>
+      <guid>https://example.org/tags/virtualization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lxc</title>
-      <link>http://localhost:1313/tags/lxc/</link>
+      <link>https://example.org/tags/lxc/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/lxc/</guid>
+      <guid>https://example.org/tags/lxc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lxd</title>
-      <link>http://localhost:1313/tags/lxd/</link>
+      <link>https://example.org/tags/lxd/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/lxd/</guid>
+      <guid>https://example.org/tags/lxd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Redhat</title>
-      <link>http://localhost:1313/tags/redhat/</link>
+      <link>https://example.org/tags/redhat/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/redhat/</guid>
+      <guid>https://example.org/tags/redhat/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rhel</title>
-      <link>http://localhost:1313/tags/rhel/</link>
+      <link>https://example.org/tags/rhel/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rhel/</guid>
+      <guid>https://example.org/tags/rhel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wsl</title>
-      <link>http://localhost:1313/tags/wsl/</link>
+      <link>https://example.org/tags/wsl/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/wsl/</guid>
+      <guid>https://example.org/tags/wsl/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wsl2</title>
-      <link>http://localhost:1313/tags/wsl2/</link>
+      <link>https://example.org/tags/wsl2/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/wsl2/</guid>
+      <guid>https://example.org/tags/wsl2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/tags/windows/</link>
+      <link>https://example.org/tags/windows/</link>
       <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/windows/</guid>
+      <guid>https://example.org/tags/windows/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>https://example.org/tags/docker/</link>
       <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>https://example.org/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gentoo</title>
-      <link>http://localhost:1313/tags/gentoo/</link>
+      <link>https://example.org/tags/gentoo/</link>
       <pubDate>Tue, 19 Jan 2021 15:55:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/gentoo/</guid>
+      <guid>https://example.org/tags/gentoo/</guid>
       <description></description>
       
     </item>
