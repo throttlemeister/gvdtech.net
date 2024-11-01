@@ -27,7 +27,7 @@ And under ~/.config you will find a symlink called fish to that directory.
 
 So the structure is basically this:
 
-- Stow directory
+- Stow directory (ie, dotfiles location)
 
   - Package directory
     - files relative from your home directory
