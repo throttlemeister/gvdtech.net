@@ -37,7 +37,7 @@ So the structure is basically this:
 
 Running stow on a package will link to files and / or directories starting from your home directory down. If a subdirectory is put in there, like the bottom one above, it will use the highest common directory entry to link to.
 
-Once you have your structure set up under your stow directory, you can simply go into your stow directory and issue the command stow * or stow packagename and all links will be created.
+Once you have your structure set up under your stow directory, you can simply go into your stow directory and issue the command `stow *` or stow packagename and all links will be created.
 
 If you then add your stow directory to a git repository, all you would have to do on a new system or when setting up after install is to clone that repository, make sure you have stow installed and issue the command above to have your setup restored.
 
@@ -45,16 +45,35 @@ If you then add your stow directory to a git repository, all you would have to d
 
 Finally, as a little bonus, I created a little fish shell function because I am lazy and don’t want to cd back and forth all the time to make it easier for me to create the links for a “package”. I use fish shell, but the example below should be easy enough to refactor to bash or zsh functions if you use those.
 
-    function dotfiles --wraps="stow"
+To create the links for configuration files for a 'package':
+
+    function add_dot --wraps="stow"
         if [ -z $argv ]
             echo "No argument given; exiting"
         else
-            set _oldpath $PWD
-            cd ~/.dotfiles
-            stow $argv
+           set _oldpath $PWD
+           cd ~/.dotfiles
+           stow $argv
             cd $_oldpath
-        end
+       end
     end
+
+Example: to set up the links for your bash dotfiles, just type `add_dot bash`
+
+To remove the links to configuration files for a 'package':
+
+    function rm_dot --wraps="stow"
+        if [ -z $argv ]
+           echo "No argument given; exiting"
+        else
+           set _oldpath $PWD
+           cd ~/.dotfiles
+           stow -D $argv
+            cd $_oldpath
+       end
+    end
+
+Example: to remove the links for your bash dotfiles, just type `rm_dot bash`
 
 ## Conclusion
 
