@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Thu, 02 May 2024 21:34:58 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One year of Tumbleweed</title>
+      <link>http://localhost:1313/posts/opensuse/12months/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/opensuse/12months/</guid>
+      <description>Introduction # Well, here we are.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/12months/featured.png" />
+    </item>
+    
     <item>
       <title>KDE Plasma 6: Don’t be fooled by the naysayers on the internet</title>
       <link>http://localhost:1313/posts/linux/kde6/</link>
@@ -16,6 +26,16 @@
       <guid>http://localhost:1313/posts/linux/kde6/</guid>
       <description>Introduction # About a month ago, KDE released their much anticipated next major release of the KDE desktop environment, version 6.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/kde6/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Transactional updates on OpenSUSE Tumbleweed</title>
+      <link>http://localhost:1313/posts/opensuse/transactional/</link>
+      <pubDate>Sat, 23 Mar 2024 13:52:22 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/opensuse/transactional/</guid>
+      <description>Introduction # It’s possible to use transactional or atomic updates on OpenSUSE Tumbleweed and leveraging the snapshot capabilities of btrfs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/transactional/featured.png" />
     </item>
     
     <item>
@@ -29,6 +49,16 @@
     </item>
     
     <item>
+      <title>systemd-boot on OpenSUSE</title>
+      <link>http://localhost:1313/posts/opensuse/sdboot/</link>
+      <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/opensuse/sdboot/</guid>
+      <description>Introduction # I am weird sometimes, I know.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/sdboot/featured.png" />
+    </item>
+    
+    <item>
       <title>OpenSUSE: 4 months in</title>
       <link>http://localhost:1313/posts/opensuse/4months/</link>
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
@@ -36,6 +66,16 @@
       <guid>http://localhost:1313/posts/opensuse/4months/</guid>
       <description>Maybe it is time for a little update, even if there is not much to say.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/4months/featured.png" />
+    </item>
+    
+    <item>
+      <title>The end to distro-hopping?</title>
+      <link>http://localhost:1313/the-end-to-distro-hopping/</link>
+      <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
+      <description>Introduction # Since I have moved to running Linux basically full time, I have ran Pop!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-end-to-distro-hopping/featured.png" />
     </item>
     
     <item>
