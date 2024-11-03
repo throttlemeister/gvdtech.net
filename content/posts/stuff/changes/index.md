@@ -3,7 +3,7 @@ title: "changes"
 date: 2024-10-27
 draft: false
 description: "Website changes"
-tags: ["various"]
+tags: ["various", "hugo"]
 ---
 ## Introduction
 If you have been here before, you will have noticed some changes. Previously, everything I posted was on sport-touring.eu and hosted by a WordPress site locally. This is no longer the case.

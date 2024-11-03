@@ -6,7 +6,7 @@ categories:
   - Computer
   - Linux
   - OpenSUSE
-
+tags: ["linux", "hyprland"]
 ---
 The other night, I was playing around watching YouTube videos and was watching this one video from Brodie Robertson on how he was now using Hyprland as his daily driver. Usually, I just zone out to other tasks when the topic gets to a tiling window manager, as it is not for me: I have a ultrawide screen on my desktop, with a 3440x1440 resolution and trust me, you do not want to run console fullscreen. 
 

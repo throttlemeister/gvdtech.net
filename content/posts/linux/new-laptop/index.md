@@ -4,7 +4,7 @@ author: throttlemeister
 date: 2023-01-20T14:37:58+00:00
 categories:
   - Linux
-
+tags: ["linux"]
 ---
 ## Introduction
 

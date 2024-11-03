@@ -4,7 +4,7 @@ author: throttlemeister
 date: 2022-05-15T14:44:57+00:00
 categories:
   - Linux
-
+tags: ["linux", "fedora"]
 ---
 ![Screemshot](/images/Screenshot-F36-1024x640.png)
 

@@ -7,6 +7,7 @@ categories:
   - containers
   - homelab
   - Linux
+tags: ["linux", "homelab", "containers"]
 
 ---
 ## Introduction

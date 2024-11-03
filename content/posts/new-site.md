@@ -2,6 +2,7 @@
 title: New site
 author: throttlemeister
 date: 2021-01-20T10:14:30+00:00
+tags: ["wordpress", "web design", "hosting"]
 ---
 After building and setting up my new computer and subsequent move away from the Apple Mac ecosystem, I was left with an issue that the site I had built was setup using a Mac-only tool and could not be migrated to Windows. After mucking around with different tools on Windows and hacking things together, I have now decided to go platform independent and recreate my website using the ever popular WordPress CMS.
 

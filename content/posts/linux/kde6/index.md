@@ -11,7 +11,7 @@ tags:
   - desktop
   - kde
   - linux
-
+tags: ["linux", "kde", "kde6"]
 ---
 ## Introduction
 

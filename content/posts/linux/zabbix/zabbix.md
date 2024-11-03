@@ -9,6 +9,7 @@ categories:
   - homelab
   - Linux
   - Monitoring
+tags: ["linux", "homelab", "zabbix", "grafana"]
 
 ---
 ## Introduction

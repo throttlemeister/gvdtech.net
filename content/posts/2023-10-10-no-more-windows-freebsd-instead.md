@@ -5,6 +5,7 @@ date: 2023-10-10T17:00:00+00:00
 categories:
   - BSD
   - Computer
+tags: ["freebsd"]
 
 ---
 No, I did not stop running OpenSUSE Tumbleweed. That's still my daily driver. I did however wipe my Windows drive and installed FreeBSD instead. I have used FreeBSD quite a lot way back when, and since I hadn't actually booted into Windows for months, I just decided to install FreeBSD on that drive so I could play with it again after I saw KDE is actively supporting FreeBSD for the desktop.
