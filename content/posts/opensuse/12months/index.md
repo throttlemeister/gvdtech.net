@@ -3,7 +3,7 @@ title: "One year of Tumbleweed"
 date: 2024-10-30
 draft: false
 description: "OpenSUSE: a year in."
-tags: ["example", "tag"]
+tags: ["opensuse", "linux"]
 ---
 ## Introduction
 

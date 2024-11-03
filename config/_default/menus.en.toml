@@ -38,6 +38,12 @@ parent = "Categories"
 weight = 4
 
 [[main]]
+name = "Browse Tags"
+pageRef = "/tags"
+parent = "Categories"
+weight = 5
+
+[[main]]
 name = "Various Stuff"
 pageRef = "/posts/stuff"
 parent = "Categories"

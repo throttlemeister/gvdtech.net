@@ -3,6 +3,7 @@ title: systemd-boot on OpenSUSE
 description: Switch from GRUB2 to systemd-boot on OpenSUSE
 date: "2024-01-18T23:01:17+02:00"
 publishDate: "2024-01-18T23:01:17+02:00"
+tags: ["opensuse", "linux", "sdboot", "systemd-boot"]
 ---
 ## Introduction
 

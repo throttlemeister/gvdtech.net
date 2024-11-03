@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opensuse on crashdot.com</title>
-    <link>https://example.org/tags/opensuse/</link>
+    <link>http://localhost:1313/tags/opensuse/</link>
     <description>Recent content in Opensuse on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Sat, 02 Mar 2024 23:50:13 +0000</lastBuildDate><atom:link href="https://example.org/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 23:50:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenSUSE Tumbleweed, 6 months in</title>
-      <link>https://example.org/posts/opensuse/6months/</link>
+      <link>http://localhost:1313/posts/opensuse/6months/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>https://example.org/posts/opensuse/6months/</guid>
+      <guid>http://localhost:1313/posts/opensuse/6months/</guid>
       <description>Well, here we are, 6 months after installing OpenSUSE Tumbleweed and still no urge to change.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/opensuse/6months/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/6months/featured.png" />
     </item>
     
     <item>
       <title>OpenSUSE: 4 months in</title>
-      <link>https://example.org/posts/opensuse/4months/</link>
+      <link>http://localhost:1313/posts/opensuse/4months/</link>
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/opensuse/4months/</guid>
+      <guid>http://localhost:1313/posts/opensuse/4months/</guid>
       <description>Maybe it is time for a little update, even if there is not much to say.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/opensuse/4months/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/4months/featured.png" />
     </item>
     
   </channel>

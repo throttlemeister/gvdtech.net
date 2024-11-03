@@ -2,118 +2,118 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on crashdot.com</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Thu, 02 May 2024 21:34:58 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2024 21:34:58 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer</title>
-      <link>https://example.org/categories/computer/</link>
+      <link>http://localhost:1313/categories/computer/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>https://example.org/categories/computer/</guid>
+      <guid>http://localhost:1313/categories/computer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Desktop</title>
-      <link>https://example.org/categories/desktop/</link>
+      <link>http://localhost:1313/categories/desktop/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>https://example.org/categories/desktop/</guid>
+      <guid>http://localhost:1313/categories/desktop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>KDE</title>
-      <link>https://example.org/categories/kde/</link>
+      <link>http://localhost:1313/categories/kde/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>https://example.org/categories/kde/</guid>
+      <guid>http://localhost:1313/categories/kde/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://example.org/categories/linux/</link>
+      <link>http://localhost:1313/categories/linux/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>https://example.org/categories/linux/</guid>
+      <guid>http://localhost:1313/categories/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSUSE</title>
-      <link>https://example.org/categories/opensuse/</link>
+      <link>http://localhost:1313/categories/opensuse/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>https://example.org/categories/opensuse/</guid>
+      <guid>http://localhost:1313/categories/opensuse/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>BSD</title>
-      <link>https://example.org/categories/bsd/</link>
+      <link>http://localhost:1313/categories/bsd/</link>
       <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/bsd/</guid>
+      <guid>http://localhost:1313/categories/bsd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Containers</title>
-      <link>https://example.org/categories/containers/</link>
+      <link>http://localhost:1313/categories/containers/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>https://example.org/categories/containers/</guid>
+      <guid>http://localhost:1313/categories/containers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homelab</title>
-      <link>https://example.org/categories/homelab/</link>
+      <link>http://localhost:1313/categories/homelab/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>https://example.org/categories/homelab/</guid>
+      <guid>http://localhost:1313/categories/homelab/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Monitoring</title>
-      <link>https://example.org/categories/monitoring/</link>
+      <link>http://localhost:1313/categories/monitoring/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/monitoring/</guid>
+      <guid>http://localhost:1313/categories/monitoring/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Virtualization</title>
-      <link>https://example.org/categories/virtualization/</link>
+      <link>http://localhost:1313/categories/virtualization/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
-      <guid>https://example.org/categories/virtualization/</guid>
+      <guid>http://localhost:1313/categories/virtualization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WSL</title>
-      <link>https://example.org/categories/wsl/</link>
+      <link>http://localhost:1313/categories/wsl/</link>
       <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
       
-      <guid>https://example.org/categories/wsl/</guid>
+      <guid>http://localhost:1313/categories/wsl/</guid>
       <description></description>
       
     </item>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -15,7 +15,7 @@
   
   
   
-  <link rel="canonical" href="https://example.org/posts/linux/dotfiles/" />
+  <link rel="canonical" href="http://localhost:1313/posts/linux/dotfiles/" />
   
   
   
@@ -66,7 +66,7 @@
   
   
   
-  <meta property="og:url" content="https://example.org/posts/linux/dotfiles/">
+  <meta property="og:url" content="http://localhost:1313/posts/linux/dotfiles/">
   <meta property="og:site_name" content="crashdot.com">
   <meta property="og:title" content="Managing dotfiles using stow on Linux">
   <meta property="og:description" content="Intro # One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.">
@@ -75,11 +75,11 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2024-09-17T13:52:22+02:00">
     <meta property="article:modified_time" content="2024-09-17T13:52:22+02:00">
-    <meta property="og:image" content="https://example.org/posts/linux/dotfiles/featured.jpg">
+    <meta property="og:image" content="http://localhost:1313/posts/linux/dotfiles/featured.jpg">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://example.org/posts/linux/dotfiles/featured.jpg">
+  <meta name="twitter:image" content="http://localhost:1313/posts/linux/dotfiles/featured.jpg">
   <meta name="twitter:title" content="Managing dotfiles using stow on Linux">
   <meta name="twitter:description" content="Intro # One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.">
 
@@ -94,7 +94,7 @@
     
     "abstract": "Intro # One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.",
     "inLanguage": "en",
-    "url" : "https:\/\/example.org\/posts\/linux\/dotfiles\/",
+    "url" : "http:\/\/localhost:1313\/posts\/linux\/dotfiles\/",
     "author" : {
       "@type": "Person",
       "name": "Linux and Tech"
@@ -108,7 +108,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "700"
+    "wordCount": "776"
   }]
   </script>
 
@@ -725,7 +725,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-09-17T13:52:22&#43;02:00">17 September 2024</time><span class="px-2 text-primary-500">&middot;</span><span>700 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2024-09-17T13:52:22&#43;02:00">17 September 2024</time><span class="px-2 text-primary-500">&middot;</span><span>776 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -985,7 +985,7 @@
 <p>So the structure is basically this:</p>
 <ul>
 <li>
-<p>Stow directory</p>
+<p>Stow directory (ie, dotfiles location)</p>
 <ul>
 <li>Package directory
 <ul>
@@ -1002,7 +1002,7 @@
 </li>
 </ul>
 <p>Running stow on a package will link to files and / or directories starting from your home directory down. If a subdirectory is put in there, like the bottom one above, it will use the highest common directory entry to link to.</p>
-<p>Once you have your structure set up under your stow directory, you can simply go into your stow directory and issue the command stow * or stow packagename and all links will be created.</p>
+<p>Once you have your structure set up under your stow directory, you can simply go into your stow directory and issue the command <code>stow *</code> or stow packagename and all links will be created.</p>
 <p>If you then add your stow directory to a git repository, all you would have to do on a new system or when setting up after install is to clone that repository, make sure you have stow installed and issue the command above to have your setup restored.</p>
 
 
@@ -1017,17 +1017,32 @@
     
 </h2>
 <p>Finally, as a little bonus, I created a little fish shell function because I am lazy and don’t want to cd back and forth all the time to make it easier for me to create the links for a “package”. I use fish shell, but the example below should be easy enough to refactor to bash or zsh functions if you use those.</p>
-<pre><code>function dotfiles --wraps=&quot;stow&quot;
+<p>To create the links for configuration files for a &lsquo;package&rsquo;:</p>
+<pre><code>function add_dot --wraps=&quot;stow&quot;
     if [ -z $argv ]
         echo &quot;No argument given; exiting&quot;
     else
-        set _oldpath $PWD
-        cd ~/.dotfiles
-        stow $argv
+       set _oldpath $PWD
+       cd ~/.dotfiles
+       stow $argv
         cd $_oldpath
-    end
+   end
 end
 </code></pre>
+<p>Example: to set up the links for your bash dotfiles, just type <code>add_dot bash</code></p>
+<p>To remove the links to configuration files for a &lsquo;package&rsquo;:</p>
+<pre><code>function rm_dot --wraps=&quot;stow&quot;
+    if [ -z $argv ]
+       echo &quot;No argument given; exiting&quot;
+    else
+       set _oldpath $PWD
+       cd ~/.dotfiles
+       stow -D $argv
+        cd $_oldpath
+   end
+end
+</code></pre>
+<p>Example: to remove the links for your bash dotfiles, just type <code>rm_dot bash</code></p>
 
 
 <h2 class="relative group">Conclusion 
@@ -1219,7 +1234,7 @@ Permissions Size User            Date Modified Git Name
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://example.org/"
+  data-url="http://localhost:1313/"
   style="z-index:500"
 >
   <div

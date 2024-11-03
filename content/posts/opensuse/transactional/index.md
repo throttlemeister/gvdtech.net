@@ -5,6 +5,7 @@ publishDate: "2024-03-23T23:01:17+02:00"
 image: "img/tuxlogo.png"
 draft: false
 author: "throttlemeister"
+tags: ["opensuse", "linux", "atomic"]
 ---
 ## Introduction
 

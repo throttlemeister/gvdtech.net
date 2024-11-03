@@ -8,6 +8,7 @@ categories:
   - Computer
   - Linux
   - OpenSUSE
+tags: ["opensuse", "linux"]
 
 ---
 ## Introduction

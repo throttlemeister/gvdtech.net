@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on crashdot.com</title>
-    <link>https://example.org/posts/linux/</link>
+    <link>http://localhost:1313/posts/linux/</link>
     <description>Recent content in Linux on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Linux and Tech</copyright>
-    <lastBuildDate>Tue, 17 Sep 2024 13:52:22 +0200</lastBuildDate><atom:link href="https://example.org/posts/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2024 13:52:22 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Managing dotfiles using stow on Linux</title>
-      <link>https://example.org/posts/linux/dotfiles/</link>
+      <link>http://localhost:1313/posts/linux/dotfiles/</link>
       <pubDate>Tue, 17 Sep 2024 13:52:22 +0200</pubDate>
       
-      <guid>https://example.org/posts/linux/dotfiles/</guid>
+      <guid>http://localhost:1313/posts/linux/dotfiles/</guid>
       <description>Intro # One thing that’s always a bit of a pain when you use multiple computers, or when you want to reinstall your computer at some point in time is that you have to recreate your configuration files or ‘dotfiles’ to have everything back as you want again.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/dotfiles/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/dotfiles/featured.jpg" />
     </item>
     
     <item>
       <title>KDE Plasma 6: Don’t be fooled by the naysayers on the internet</title>
-      <link>https://example.org/posts/linux/kde6/</link>
+      <link>http://localhost:1313/posts/linux/kde6/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/kde6/</guid>
+      <guid>http://localhost:1313/posts/linux/kde6/</guid>
       <description>Introduction # About a month ago, KDE released their much anticipated next major release of the KDE desktop environment, version 6.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/kde6/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/kde6/featured.jpg" />
     </item>
     
     <item>
       <title>Interesting (or: first tiling windows manager experience)</title>
-      <link>https://example.org/posts/linux/interresting/</link>
+      <link>http://localhost:1313/posts/linux/interresting/</link>
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/interresting/</guid>
+      <guid>http://localhost:1313/posts/linux/interresting/</guid>
       <description>The other night, I was playing around watching YouTube videos and was watching this one video from Brodie Robertson on how he was now using Hyprland as his daily driver.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/interresting/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/interresting/featured.jpg" />
     </item>
     
     <item>
       <title>Running redundant AdGuard@Home DNS servers on Synology</title>
-      <link>https://example.org/posts/linux/adguard/</link>
+      <link>http://localhost:1313/posts/linux/adguard/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/adguard/</guid>
+      <guid>http://localhost:1313/posts/linux/adguard/</guid>
       <description>Introduction # This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/adguard/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/adguard/featured.jpg" />
     </item>
     
     <item>
       <title>New laptop, new Linux distro</title>
-      <link>https://example.org/posts/linux/new-laptop/</link>
+      <link>http://localhost:1313/posts/linux/new-laptop/</link>
       <pubDate>Fri, 20 Jan 2023 14:37:58 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/new-laptop/</guid>
+      <guid>http://localhost:1313/posts/linux/new-laptop/</guid>
       <description>Introduction # I finally got fed up with my Macbook Pro as a Linux laptop.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/new-laptop/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/new-laptop/featured.jpg" />
     </item>
     
     <item>
       <title>Upgraded laptop to Fedora 36</title>
-      <link>https://example.org/posts/linux/fedora36/</link>
+      <link>http://localhost:1313/posts/linux/fedora36/</link>
       <pubDate>Sun, 15 May 2022 14:44:57 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/fedora36/</guid>
+      <guid>http://localhost:1313/posts/linux/fedora36/</guid>
       <description>Upgrade was smooth as is to be expected with Fedora and everything is running smooth.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/fedora36/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/fedora36/featured.jpg" />
     </item>
     
     <item>
       <title>Optimizing Linux for desktop performance</title>
-      <link>https://example.org/posts/linux/performance/</link>
+      <link>http://localhost:1313/posts/linux/performance/</link>
       <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/performance/</guid>
+      <guid>http://localhost:1313/posts/linux/performance/</guid>
       <description>Introduction # My daily driver is currently Pop!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/performance/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/performance/featured.jpg" />
     </item>
     
     <item>
       <title>Moving a Linux install to a new disk</title>
-      <link>https://example.org/posts/linux/moving/</link>
+      <link>http://localhost:1313/posts/linux/moving/</link>
       <pubDate>Mon, 08 Nov 2021 19:54:03 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/moving/</guid>
+      <guid>http://localhost:1313/posts/linux/moving/</guid>
       <description>Introduction # Recently I had to move my Linux install from one drive to another, as I was experiencing some issues with a WD SN550 nvme drive causing some short random freezes of the GUI with IO intensive tasks.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/moving/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/moving/featured.jpg" />
     </item>
     
     <item>
       <title>Monitoring your network or homelab using Zabbix and Grafana</title>
-      <link>https://example.org/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
+      <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       
-      <guid>https://example.org/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
+      <guid>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
       <description>Introduction # For the longest time, I have been monitoring my network and homelab using Observium.</description>
       
     </item>
     
     <item>
       <title>Did you know... (or, RHEL on LXC/LXD)</title>
-      <link>https://example.org/posts/linux/rhel-on-lxc/</link>
+      <link>http://localhost:1313/posts/linux/rhel-on-lxc/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>https://example.org/posts/linux/rhel-on-lxc/</guid>
+      <guid>http://localhost:1313/posts/linux/rhel-on-lxc/</guid>
       <description>There are no RedHat Enterprise Linux (RHEL) LXC/LXD container images publicly available?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/linux/rhel-on-lxc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/rhel-on-lxc/featured.jpg" />
     </item>
     
   </channel>

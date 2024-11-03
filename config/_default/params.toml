@@ -85,7 +85,7 @@ showBreadcrumbs = true
 showViews = false
 showLikes = false
 showTableOfContents = true
-cardView = false
+cardView = true
 heroStyle = "background"
 
 [term]
