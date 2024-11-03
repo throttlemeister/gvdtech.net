@@ -3,7 +3,7 @@ title = 'Managing dotfiles using stow on Linux'
 date = 2024-09-17T13:52:22+02:00
 draft = false
 image = "img/tuxlogo.png"
-tags: ["linux", "dotfiles"]
+tags: = ["linux", "dotfiles"]
 +++
 ## Intro
 
