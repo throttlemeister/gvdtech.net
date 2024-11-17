@@ -91,7 +91,7 @@ Zoxide is a smarter `cd` command and my new best friend. It takes inspiration fr
         if command -sq zoxide
             z $argv
         else
-            cd $argv
+            command cd $argv
         end
     end
 
