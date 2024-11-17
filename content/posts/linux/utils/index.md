@@ -98,13 +98,69 @@ Zoxide is a smarter `cd` command and my new best friend. It takes inspiration fr
 Homepage: [zoxide](https://github.com/ajeetdsouza/zoxide?tab=readme-ov-file)
 
 ## advcp & advmv
-To be added
+Advanced Copy is a mod for the GNU cp and GNU mv tools which adds a progress bar and provides some info on what's going on. There is no real difference to the standard cp and mv commands, but I do very much appreciate that it gives feedback on progress. Why isn't this included by default?
+
+In my fish config:
+
+    function cp
+      if command -sq advcp
+        advcp -g $argv
+      else
+        command cp $argv
+      end
+    end
+
+(same for mv)
+
+Homepage: [advcp/mv](https://github.com/jarun/advcpmv)
 
 ## stow
-To be added
+From their homepage:
+> GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. For example, /usr/local/bin could contain symlinks to files within /usr/local/stow/emacs/bin, /usr/local/stow/perl/bin etc., and likewise recursively for any other subdirectories such as .../share, .../man, and so on.
+
+I like and use it to manage my dotfiles in a simple, intuitive way. I actually wrote an article about it, which you can read [here](https://www.crashdot.com/posts/linux/dotfiles/). 
+
+    # Function for stow, to ingore .directory files and use 'dotfiles' special handling functionality
+    #
+    function dotf -d "Use stow with extra parameters"
+        if command -sq stow
+            stow -d ~/.dotfiles/ $argv --ignore=.directory --ignore=README.md --dotfiles
+        else
+            echo "Stow not installed. Please install before using."
+        end
+    end
+
+Homepage: [GNU stow](https://www.gnu.org/software/stow/)
 
 ## fastfetch
-To be added
+Admit it, everybody loves neofetch. However, neofetch is no longer maintained and fastfetch does the same thing. Except it is written in C and as such it is blistering fast. It is also highly configurabla, just like its cousin.
+
+    function ff -d 'fastfetch shortcut'
+        if type --quiet fastfetch
+            if test -n "$ALACRITTY_WINDOW_ID"
+                fastfetch -l opensuse -c examples/6.jsonc $argv
+            else
+                fastfetch -l ~/ansible/files/twgrey.png --logo-type iterm --logo-padding-top 2 --logo-width 45 -c examples/6.jsonc $argv
+            end
+        else
+            command neofetch $argv
+        end
+    end
+
+I do a check on alacritty there, as it does not seem to like me using an image file for the distro logo. So I revert to a regular ASCII logo if it detects alacritty as the terminal emulator.
+
+Homepage: [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## neovim
-To be added
+Neovim is a hyperextensible vim-based editor. It is a drop-in for replacement for vim and is customizable to the extreme. I use it in combination with lazyvim, which is a plugin manager and allows for easy configuration and customization.
+
+    function vi --wraps="neovim to vi"
+        if command -sq nvim
+            nvim $argv
+        else
+            command vi $argv
+        end
+    end
+
+Homepage: [neovim](https://neovim.io/)
+Homepage: [LazyVim](https://www.lazyvim.org/)
