@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyprland on crashdot.com</title>
+    <link>http://localhost:1313/tags/hyprland/</link>
+    <description>Recent content in Hyprland on crashdot.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Linux and Tech</copyright>
+    <lastBuildDate>Fri, 13 Oct 2023 17:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting (or: first tiling windows manager experience)</title>
+      <link>http://localhost:1313/posts/linux/interresting/</link>
+      <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linux/interresting/</guid>
+      <description>The other night, I was playing around watching YouTube videos and was watching this one video from Brodie Robertson on how he was now using Hyprland as his daily driver.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/interresting/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

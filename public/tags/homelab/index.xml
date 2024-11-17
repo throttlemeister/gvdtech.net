@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homelab on crashdot.com</title>
+    <link>http://localhost:1313/tags/homelab/</link>
+    <description>Recent content in Homelab on crashdot.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Linux and Tech</copyright>
+    <lastBuildDate>Wed, 03 May 2023 12:59:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running redundant AdGuard@Home DNS servers on Synology</title>
+      <link>http://localhost:1313/posts/linux/adguard/</link>
+      <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linux/adguard/</guid>
+      <description>Introduction # This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/adguard/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Monitoring your network or homelab using Zabbix and Grafana</title>
+      <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
+      <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
+      <description>Introduction # For the longest time, I have been monitoring my network and homelab using Observium.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
