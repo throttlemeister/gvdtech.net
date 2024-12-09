@@ -39,3 +39,10 @@ pbl is a commandline utility that allows you to configure the bootloader, add op
         --log LOGFILE               Log messages to LOGFILE (default: /var/log/pbl.log)
         --version                   Show pbl version.
         --help                      Write this help text.
+
+## Quick reference on some vi commands
+
+Select block:  ^V to enter block mode, use arrow to position cursoruse
+Edit: use SHIFT-i to switch to insert, ESC to apply
+
+Realign all idents: gg=G
