@@ -1,7 +1,7 @@
 +++
 title = 'Quick reference notes'
 date = 2024-11-30T22:58:17+01:00
-draft = true
+draft = false
 tags = ["opensuse", "linux", "notes"]
 +++
 ## Introduction
