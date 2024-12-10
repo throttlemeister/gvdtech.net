@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on crashdot.com</title>
+    <link>http://localhost:1313/tags/wordpress/</link>
+    <description>Recent content in Wordpress on crashdot.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Linux and Tech</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 10:14:30 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New site</title>
+      <link>http://localhost:1313/posts/new-site/</link>
+      <pubDate>Wed, 20 Jan 2021 10:14:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/new-site/</guid>
+      <description>After building and setting up my new computer and subsequent move away from the Apple Mac ecosystem, I was left with an issue that the site I had built was setup using a Mac-only tool and could not be migrated to Windows.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
