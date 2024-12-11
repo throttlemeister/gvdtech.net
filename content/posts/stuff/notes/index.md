@@ -49,8 +49,9 @@ Realign all idents: gg=G
 
 ## Setting the IO scheduler
 
-Location: /etc/udev/rules.d/
-Create a new file, for instance: 00-default-ioscheduler.rules
+Check which IO scheduler is active: `cat /sys/block/sda/queue/scheduler`
+Location: `/etc/udev/rules.d/`
+Create a new file, for instance: `00-default-ioscheduler.rules`
 Content:
 
     ACTION=="add|change", KERNEL=="sd*[!0-9]|sr*", ATTR{queue/scheduler}="kyber"
