@@ -46,3 +46,11 @@ Select block:  ^V to enter block mode, use arrow to position cursoruse
 Edit: use SHIFT-i to switch to insert, ESC to apply
 
 Realign all idents: gg=G
+
+## Setting the IO scheduler
+
+Location: /etc/udev/rules.d/
+Create a new file, for instance: 00-default-ioscheduler.rules
+Content:
+
+    ACTION=="add|change", KERNEL=="sd*[!0-9]|sr*", ATTR{queue/scheduler}="kyber"
