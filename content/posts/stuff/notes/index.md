@@ -55,3 +55,7 @@ Create a new file, for instance: `00-default-ioscheduler.rules`
 Content:
 
     ACTION=="add|change", KERNEL=="sd*[!0-9]|sr*", ATTR{queue/scheduler}="kyber"
+
+To set maximum preference for latency over throughput while using kyber, execute crontab at boot:
+
+    @reboot echo "0">/sys/block/sda/queue/iosched//read_lat_nsec
