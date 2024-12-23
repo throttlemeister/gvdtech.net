@@ -59,3 +59,5 @@ Content:
 To set maximum preference for latency over throughput while using kyber, execute crontab at boot:
 
     @reboot echo "0">/sys/block/sda/queue/iosched//read_lat_nsec
+
+> Note: this does not fix freezing while running btrfs.cleaner with quotas enabled
