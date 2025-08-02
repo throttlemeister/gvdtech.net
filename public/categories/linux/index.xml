@@ -6,16 +6,17 @@
     <description>Recent content in Linux on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Linux and Tech</copyright>
+    <copyright>© 2025 Linux and Tech</copyright>
     <lastBuildDate>Thu, 02 May 2024 21:34:58 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>KDE Plasma 6: Don’t be fooled by the naysayers on the internet</title>
       <link>http://localhost:1313/posts/linux/kde6/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/kde6/</guid>
-      <description>Introduction # About a month ago, KDE released their much anticipated next major release of the KDE desktop environment, version 6.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/kde6/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -24,8 +25,8 @@
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/6months/</guid>
-      <description>Well, here we are, 6 months after installing OpenSUSE Tumbleweed and still no urge to change.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/6months/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -34,8 +35,8 @@
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/4months/</guid>
-      <description>Maybe it is time for a little update, even if there is not much to say.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/4months/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -44,8 +45,8 @@
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/interresting/</guid>
-      <description>The other night, I was playing around watching YouTube videos and was watching this one video from Brodie Robertson on how he was now using Hyprland as his daily driver.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/interresting/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -54,8 +55,8 @@
       <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
       
       <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
-      <description>Introduction # Since I have moved to running Linux basically full time, I have ran Pop!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-end-to-distro-hopping/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -64,8 +65,8 @@
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/adguard/</guid>
-      <description>Introduction # This is a quick post on how to run multiple instances of AdGuard@Home on a single Synology host using Docker.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/adguard/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -74,8 +75,8 @@
       <pubDate>Fri, 20 Jan 2023 14:37:58 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/new-laptop/</guid>
-      <description>Introduction # I finally got fed up with my Macbook Pro as a Linux laptop.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/new-laptop/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -84,8 +85,8 @@
       <pubDate>Sun, 15 May 2022 14:44:57 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/fedora36/</guid>
-      <description>Upgrade was smooth as is to be expected with Fedora and everything is running smooth.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/fedora36/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -94,8 +95,8 @@
       <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/performance/</guid>
-      <description>Introduction # My daily driver is currently Pop!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/performance/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -104,8 +105,8 @@
       <pubDate>Mon, 08 Nov 2021 19:54:03 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/moving/</guid>
-      <description>Introduction # Recently I had to move my Linux install from one drive to another, as I was experiencing some issues with a WD SN550 nvme drive causing some short random freezes of the GUI with IO intensive tasks.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux/moving/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -114,7 +115,7 @@
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       
       <guid>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
-      <description>Introduction # For the longest time, I have been monitoring my network and homelab using Observium.</description>
+      <description></description>
       
     </item>
     

@@ -6,16 +6,17 @@
     <description>Recent content in Opensuse on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Linux and Tech</copyright>
+    <copyright>© 2025 Linux and Tech</copyright>
     <lastBuildDate>Sat, 30 Nov 2024 22:58:17 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Quick reference notes</title>
       <link>http://localhost:1313/posts/stuff/notes/</link>
       <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
       
       <guid>http://localhost:1313/posts/stuff/notes/</guid>
-      <description>Introduction # This is a page where I store quick notes and commands I sometimes need but always forget and end up having to search for on the web, which is not the most economic way to spend my time.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stuff/notes/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -24,8 +25,8 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/12months/</guid>
-      <description>Introduction # Well, here we are.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/12months/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -34,8 +35,8 @@
       <pubDate>Sat, 23 Mar 2024 13:52:22 +0200</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/transactional/</guid>
-      <description>Introduction # It’s possible to use transactional or atomic updates on OpenSUSE Tumbleweed and leveraging the snapshot capabilities of btrfs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/transactional/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -44,8 +45,8 @@
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/6months/</guid>
-      <description>Well, here we are, 6 months after installing OpenSUSE Tumbleweed and still no urge to change.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/6months/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -54,8 +55,8 @@
       <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/sdboot/</guid>
-      <description>Introduction # I am weird sometimes, I know.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/sdboot/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -64,8 +65,8 @@
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/4months/</guid>
-      <description>Maybe it is time for a little update, even if there is not much to say.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opensuse/4months/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -74,8 +75,8 @@
       <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
       
       <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
-      <description>Introduction # Since I have moved to running Linux basically full time, I have ran Pop!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-end-to-distro-hopping/featured.png" />
+      <description></description>
+      
     </item>
     
   </channel>

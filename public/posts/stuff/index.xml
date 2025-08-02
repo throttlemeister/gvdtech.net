@@ -6,16 +6,27 @@
     <description>Recent content in Various Stuff on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Linux and Tech</copyright>
-    <atom:link href="http://localhost:1313/posts/stuff/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Linux and Tech</copyright>
+    <lastBuildDate>Fri, 31 Jan 2025 23:08:45 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/stuff/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Here a Catpuccin, there a Catpuccin. Everywhere a Catpuccin</title>
+      <link>http://localhost:1313/posts/stuff/catpuccin/</link>
+      <pubDate>Fri, 31 Jan 2025 23:08:45 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/stuff/catpuccin/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Quick reference notes</title>
       <link>http://localhost:1313/posts/stuff/notes/</link>
       <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
       
       <guid>http://localhost:1313/posts/stuff/notes/</guid>
-      <description>Introduction # This is a page where I store quick notes and commands I sometimes need but always forget and end up having to search for on the web, which is not the most economic way to spend my time.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stuff/notes/featured.jpg" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -24,8 +35,8 @@
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/stuff/changes/</guid>
-      <description>Introduction # If you have been here before, you will have noticed some changes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stuff/changes/featured.png" />
+      <description></description>
+      
     </item>
     
     <item>
@@ -34,7 +45,7 @@
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/stuff/2023-03-08-why-the-f1-academy-is-bad-for-women-in-racing/</guid>
-      <description>Introduction # Before the start of the 2023 F1 season, Formula 1 launched the F1 Academy initiative to be headed by Susie Wolf and get more girls into F1.</description>
+      <description></description>
       
     </item>
     

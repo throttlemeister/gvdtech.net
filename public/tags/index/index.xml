@@ -6,12 +6,13 @@
     <description>Recent content in Index on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Linux and Tech</copyright>
-    <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Linux and Tech</copyright>
+    <lastBuildDate>Sun, 03 Aug 2025 00:06:03 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Articles</title>
       <link>http://localhost:1313/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
       
       <guid>http://localhost:1313/posts/</guid>
       <description></description>
@@ -19,9 +20,19 @@
     </item>
     
     <item>
+      <title>Various Stuff</title>
+      <link>http://localhost:1313/posts/stuff/</link>
+      <pubDate>Fri, 31 Jan 2025 23:08:45 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/stuff/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Linux</title>
       <link>http://localhost:1313/posts/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/linux/</guid>
       <description></description>
@@ -31,7 +42,7 @@
     <item>
       <title>OpenSUSE</title>
       <link>http://localhost:1313/posts/opensuse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/opensuse/</guid>
       <description></description>
@@ -41,7 +52,7 @@
     <item>
       <title>Quickie</title>
       <link>http://localhost:1313/posts/quicky/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/quicky/</guid>
       <description></description>
@@ -49,19 +60,9 @@
     </item>
     
     <item>
-      <title>Various Stuff</title>
-      <link>http://localhost:1313/posts/stuff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/stuff/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>WSL</title>
       <link>http://localhost:1313/posts/wsl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/wsl/</guid>
       <description></description>

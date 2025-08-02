@@ -6,15 +6,16 @@
     <description>Recent content in Hosting on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Linux and Tech</copyright>
+    <copyright>© 2025 Linux and Tech</copyright>
     <lastBuildDate>Wed, 20 Jan 2021 10:14:30 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>New site</title>
       <link>http://localhost:1313/posts/new-site/</link>
       <pubDate>Wed, 20 Jan 2021 10:14:30 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/new-site/</guid>
-      <description>After building and setting up my new computer and subsequent move away from the Apple Mac ecosystem, I was left with an issue that the site I had built was setup using a Mac-only tool and could not be migrated to Windows.</description>
+      <description></description>
       
     </item>
     

@@ -6,15 +6,16 @@
     <description>Recent content in Kvm on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Linux and Tech</copyright>
+    <copyright>© 2025 Linux and Tech</copyright>
     <lastBuildDate>Sat, 13 Feb 2021 10:09:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kvm/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>As short as possible: application containers, system containers, virtualization</title>
       <link>http://localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</guid>
-      <description>Introduction # Sometimes, there is a bit of confusion as to what the difference is between application containers (Docker, Podman, K8S, OpenShift), system containers (LXC/LXD) and virtualization (KVM, Vmware, Hyper-V, Xen) and when you should use them.</description>
+      <description></description>
       
     </item>
     

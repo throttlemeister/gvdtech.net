@@ -6,15 +6,26 @@
     <description>Recent content in Articles on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Linux and Tech</copyright>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Linux and Tech</copyright>
+    <lastBuildDate>Sun, 03 Aug 2025 00:06:03 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unifi 24 port POE switch</title>
+      <link>http://localhost:1313/posts/unifi/us24poe/</link>
+      <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/unifi/us24poe/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>No more Windows. FreeBSD instead.</title>
       <link>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</link>
       <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</guid>
-      <description>No, I did not stop running OpenSUSE Tumbleweed.</description>
+      <description></description>
       
     </item>
     
@@ -24,7 +35,7 @@
       <pubDate>Wed, 20 Jan 2021 10:14:30 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/new-site/</guid>
-      <description>After building and setting up my new computer and subsequent move away from the Apple Mac ecosystem, I was left with an issue that the site I had built was setup using a Mac-only tool and could not be migrated to Windows.</description>
+      <description></description>
       
     </item>
     
