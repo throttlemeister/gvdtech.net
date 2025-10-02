@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utilities on crashdot.com</title>
-    <link>http://localhost:1313/tags/utilities/</link>
+    <link>//localhost:1313/tags/utilities/</link>
     <description>Recent content in Utilities on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/utilities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/utilities/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Top Utilities and Tools</title>
-      <link>http://localhost:1313/posts/linux/utils/</link>
+      <link>//localhost:1313/posts/linux/utils/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/utils/</guid>
+      <guid>//localhost:1313/posts/linux/utils/</guid>
       <description></description>
       
     </item>

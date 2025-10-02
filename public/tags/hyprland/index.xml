@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyprland on crashdot.com</title>
-    <link>http://localhost:1313/tags/hyprland/</link>
+    <link>//localhost:1313/tags/hyprland/</link>
     <description>Recent content in Hyprland on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Fri, 13 Oct 2023 17:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 17:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Interesting (or: first tiling windows manager experience)</title>
-      <link>http://localhost:1313/posts/linux/interresting/</link>
+      <link>//localhost:1313/posts/linux/interresting/</link>
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/interresting/</guid>
+      <guid>//localhost:1313/posts/linux/interresting/</guid>
       <description></description>
       
     </item>

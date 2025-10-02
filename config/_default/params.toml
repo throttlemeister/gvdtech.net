@@ -1,4 +1,4 @@
-colorScheme = "terminal"
+colorScheme = "ocean"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
@@ -9,7 +9,7 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 smartTOC = true
-defaultBackgroundImage = "quorro-tron-k3-3440x1440.jpg"
+defaultBackgroundImage = "vector.jpg"
 smartTOCHideUnfocusedChildren = false
 
 [header]

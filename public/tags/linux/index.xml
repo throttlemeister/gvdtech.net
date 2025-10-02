@@ -2,219 +2,219 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on crashdot.com</title>
-    <link>http://localhost:1313/tags/linux/</link>
+    <link>//localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 22:58:17 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 22:58:17 +0100</lastBuildDate><atom:link href="//localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quick reference notes</title>
-      <link>http://localhost:1313/posts/stuff/notes/</link>
+      <link>//localhost:1313/posts/stuff/notes/</link>
       <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/stuff/notes/</guid>
+      <guid>//localhost:1313/posts/stuff/notes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Top Utilities and Tools</title>
-      <link>http://localhost:1313/posts/linux/utils/</link>
+      <link>//localhost:1313/posts/linux/utils/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/utils/</guid>
+      <guid>//localhost:1313/posts/linux/utils/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>One year of Tumbleweed</title>
-      <link>http://localhost:1313/posts/opensuse/12months/</link>
+      <link>//localhost:1313/posts/opensuse/12months/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/12months/</guid>
+      <guid>//localhost:1313/posts/opensuse/12months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Managing dotfiles using stow on Linux</title>
-      <link>http://localhost:1313/posts/linux/dotfiles/</link>
+      <link>//localhost:1313/posts/linux/dotfiles/</link>
       <pubDate>Tue, 17 Sep 2024 13:52:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/dotfiles/</guid>
+      <guid>//localhost:1313/posts/linux/dotfiles/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>KDE Plasma 6: Don’t be fooled by the naysayers on the internet</title>
-      <link>http://localhost:1313/posts/linux/kde6/</link>
+      <link>//localhost:1313/posts/linux/kde6/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/kde6/</guid>
+      <guid>//localhost:1313/posts/linux/kde6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Transactional updates on OpenSUSE Tumbleweed</title>
-      <link>http://localhost:1313/posts/opensuse/transactional/</link>
+      <link>//localhost:1313/posts/opensuse/transactional/</link>
       <pubDate>Sat, 23 Mar 2024 13:52:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/transactional/</guid>
+      <guid>//localhost:1313/posts/opensuse/transactional/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSUSE Tumbleweed, 6 months in</title>
-      <link>http://localhost:1313/posts/opensuse/6months/</link>
+      <link>//localhost:1313/posts/opensuse/6months/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/6months/</guid>
+      <guid>//localhost:1313/posts/opensuse/6months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>systemd-boot on OpenSUSE</title>
-      <link>http://localhost:1313/posts/opensuse/sdboot/</link>
+      <link>//localhost:1313/posts/opensuse/sdboot/</link>
       <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/sdboot/</guid>
+      <guid>//localhost:1313/posts/opensuse/sdboot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSUSE: 4 months in</title>
-      <link>http://localhost:1313/posts/opensuse/4months/</link>
+      <link>//localhost:1313/posts/opensuse/4months/</link>
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/4months/</guid>
+      <guid>//localhost:1313/posts/opensuse/4months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Interesting (or: first tiling windows manager experience)</title>
-      <link>http://localhost:1313/posts/linux/interresting/</link>
+      <link>//localhost:1313/posts/linux/interresting/</link>
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/interresting/</guid>
+      <guid>//localhost:1313/posts/linux/interresting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The end to distro-hopping?</title>
-      <link>http://localhost:1313/the-end-to-distro-hopping/</link>
+      <link>//localhost:1313/the-end-to-distro-hopping/</link>
       <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
+      <guid>//localhost:1313/the-end-to-distro-hopping/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Running redundant AdGuard@Home DNS servers on Synology</title>
-      <link>http://localhost:1313/posts/linux/adguard/</link>
+      <link>//localhost:1313/posts/linux/adguard/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/adguard/</guid>
+      <guid>//localhost:1313/posts/linux/adguard/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New laptop, new Linux distro</title>
-      <link>http://localhost:1313/posts/linux/new-laptop/</link>
+      <link>//localhost:1313/posts/linux/new-laptop/</link>
       <pubDate>Fri, 20 Jan 2023 14:37:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/new-laptop/</guid>
+      <guid>//localhost:1313/posts/linux/new-laptop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Upgraded laptop to Fedora 36</title>
-      <link>http://localhost:1313/posts/linux/fedora36/</link>
+      <link>//localhost:1313/posts/linux/fedora36/</link>
       <pubDate>Sun, 15 May 2022 14:44:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/fedora36/</guid>
+      <guid>//localhost:1313/posts/linux/fedora36/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Optimizing Linux for desktop performance</title>
-      <link>http://localhost:1313/posts/linux/performance/</link>
+      <link>//localhost:1313/posts/linux/performance/</link>
       <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/performance/</guid>
+      <guid>//localhost:1313/posts/linux/performance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Moving a Linux install to a new disk</title>
-      <link>http://localhost:1313/posts/linux/moving/</link>
+      <link>//localhost:1313/posts/linux/moving/</link>
       <pubDate>Mon, 08 Nov 2021 19:54:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/moving/</guid>
+      <guid>//localhost:1313/posts/linux/moving/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Monitoring your network or homelab using Zabbix and Grafana</title>
-      <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
+      <link>//localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
+      <guid>//localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Did you know... (or, RHEL on LXC/LXD)</title>
-      <link>http://localhost:1313/posts/linux/rhel-on-lxc/</link>
+      <link>//localhost:1313/posts/linux/rhel-on-lxc/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux/rhel-on-lxc/</guid>
+      <guid>//localhost:1313/posts/linux/rhel-on-lxc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tested distributions under WSL2</title>
-      <link>http://localhost:1313/posts/wsl/tested-distributions-under-wsl2/</link>
+      <link>//localhost:1313/posts/wsl/tested-distributions-under-wsl2/</link>
       <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wsl/tested-distributions-under-wsl2/</guid>
+      <guid>//localhost:1313/posts/wsl/tested-distributions-under-wsl2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Any Linux distribution on Windows 10 with WSL2</title>
-      <link>http://localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</link>
+      <link>//localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</link>
       <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</guid>
+      <guid>//localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gentoo on Windows with WSL2</title>
-      <link>http://localhost:1313/posts/wsl/gentoo-on-wsl/</link>
+      <link>//localhost:1313/posts/wsl/gentoo-on-wsl/</link>
       <pubDate>Tue, 19 Jan 2021 15:55:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wsl/gentoo-on-wsl/</guid>
+      <guid>//localhost:1313/posts/wsl/gentoo-on-wsl/</guid>
       <description></description>
       
     </item>

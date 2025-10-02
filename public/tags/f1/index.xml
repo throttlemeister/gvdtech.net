@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F1 on crashdot.com</title>
-    <link>http://localhost:1313/tags/f1/</link>
+    <link>//localhost:1313/tags/f1/</link>
     <description>Recent content in F1 on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Wed, 08 Mar 2023 08:52:34 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/f1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 08:52:34 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/f1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why the F1 Academy is bad for women in racing</title>
-      <link>http://localhost:1313/posts/stuff/2023-03-08-why-the-f1-academy-is-bad-for-women-in-racing/</link>
+      <link>//localhost:1313/posts/stuff/2023-03-08-why-the-f1-academy-is-bad-for-women-in-racing/</link>
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/stuff/2023-03-08-why-the-f1-academy-is-bad-for-women-in-racing/</guid>
+      <guid>//localhost:1313/posts/stuff/2023-03-08-why-the-f1-academy-is-bad-for-women-in-racing/</guid>
       <description></description>
       
     </item>

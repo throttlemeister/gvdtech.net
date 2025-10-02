@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systemd-Boot on crashdot.com</title>
-    <link>http://localhost:1313/tags/systemd-boot/</link>
+    <link>//localhost:1313/tags/systemd-boot/</link>
     <description>Recent content in Systemd-Boot on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Thu, 18 Jan 2024 23:01:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/systemd-boot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 23:01:17 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/systemd-boot/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>systemd-boot on OpenSUSE</title>
-      <link>http://localhost:1313/posts/opensuse/sdboot/</link>
+      <link>//localhost:1313/posts/opensuse/sdboot/</link>
       <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/opensuse/sdboot/</guid>
+      <guid>//localhost:1313/posts/opensuse/sdboot/</guid>
       <description></description>
       
     </item>
