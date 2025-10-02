@@ -1,6 +1,6 @@
 colorScheme = "ocean"
 defaultAppearance = "dark"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 replyByEmail = false
