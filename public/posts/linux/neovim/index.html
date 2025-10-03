@@ -139,7 +139,7 @@
     "keywords": ["computer","linux","Neovim"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1171"
+    "wordCount": "1209"
   }]
   </script>
 
@@ -862,7 +862,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-10-03T14:58:56&#43;02:00">3 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1171 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
+      <time datetime="2025-10-03T14:58:56&#43;02:00">3 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1209 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -1141,8 +1141,8 @@
 </h2>
 <p>First off, as you may have guessed if you have been here before, I use Catpuccin (Frappe flavor) as my default colorscheme for just about everything and everywhere if I can. Same for Neovim, however I have been experiencing some issues with Catpuccin and bufferline (one of the default lazyvim plugins) after upgrades. Figured out, manual config change fixes this.</p>
 <p>File:</p>
-<pre tabindex="0"><code>~/.config/nvim/lua/config/colorscheme.lua
-</code></pre><p>Source:</p>
+<p><code>~/.config/nvim/lua/config/colorscheme.lua</code></p>
+<p>Source:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="kr">return</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl">  <span class="s2">&#34;catppuccin/nvim&#34;</span><span class="p">,</span>
 </span></span><span class="line"><span class="cl">  <span class="n">lazy</span> <span class="o">=</span> <span class="kc">true</span><span class="p">,</span>
@@ -1229,8 +1229,8 @@
     
 </h3>
 <p>File:</p>
-<pre tabindex="0"><code>~/.config/nvim/lua/plugins/render-markdown.lua
-</code></pre><p>Source:</p>
+<p><code>~/.config/nvim/lua/plugins/render-markdown.lua</code></p>
+<p>Source:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="kr">return</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl">  <span class="s2">&#34;MeanderingProgrammer/render-markdown.nvim&#34;</span><span class="p">,</span>
 </span></span><span class="line"><span class="cl">  <span class="n">dependencies</span> <span class="o">=</span> <span class="p">{</span> <span class="s2">&#34;mini.icons&#34;</span> <span class="p">},</span>
@@ -1409,8 +1409,8 @@
 </h3>
 <p>This plugin helps me to quickly organize and work with creating notes or related and linked files from Neovim. For now, I have not customized its configuration so it is very basic.</p>
 <p>File:</p>
-<pre tabindex="0"><code>~/.config/nvim/lua/plugins/mkdwnflow.lua
-</code></pre><p>Source:</p>
+<p><code>~/.config/nvim/lua/plugins/mkdwnflow.lua</code></p>
+<p>Source:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="kr">return</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl">  <span class="s2">&#34;jakewvincent/mkdnflow.nvim&#34;</span><span class="p">,</span>
 </span></span><span class="line"><span class="cl">  <span class="n">config</span> <span class="o">=</span> <span class="kr">function</span><span class="p">()</span>
@@ -1431,8 +1431,8 @@
 </h3>
 <p>Same as mkdnflow basically. This plugin makes sure indentation of code blocks in Markdown files are done properly according to the language of the code block.</p>
 <p>File:</p>
-<pre tabindex="0"><code>~/.config/nvim/lua/plugins/indent.lua
-</code></pre><p>Source:</p>
+<p><code>~/.config/nvim/lua/plugins/indent.lua</code></p>
+<p>Source:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="kr">return</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl"> <span class="s2">&#34;wurli/contextindent.nvim&#34;</span><span class="p">,</span>
 </span></span><span class="line"><span class="cl"> <span class="c1">-- This is the only config option; you can use it to restrict the files</span>
@@ -1452,9 +1452,9 @@
 </h3>
 <p>And the last one, which is basically a fix, as I said. It points to a dot-file in my home directory to suppress a specific linter error that is not applicable in Markdown.</p>
 <p>File:</p>
-<pre tabindex="0"><code>~/.config/nvim/lua/plugins/markdown-lint.lua
-~/.markdownlint-cli2.yaml
-</code></pre><p>Source:</p>
+<p><code>~/.config/nvim/lua/plugins/markdown-lint.lua</code>
+<code>~/.markdownlint-cli2.yaml</code></p>
+<p>Source:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="kr">return</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl">  <span class="p">{</span>
 </span></span><span class="line"><span class="cl">    <span class="s2">&#34;mfussenegger/nvim-lint&#34;</span><span class="p">,</span>
@@ -1481,6 +1481,9 @@
     
 </h2>
 <p>Neovim is a tool of endless oppertunity. I haven&rsquo;t even scratched the surface of what is possible and already it does more for me quicker and easier than vscode did before. Yes it does getting used to, especially if you are used to operating software with your mouse as your core navigation tool but it is learned quickly if you want.</p>
+<blockquote>
+<p>[!NOTE]
+File names mentioned above are those that I chose. They have no bearing on the functionality. Except for the last one, which obviously needs to align with the filename provided in the lua script of the plugin.</p></blockquote>
 
           
           

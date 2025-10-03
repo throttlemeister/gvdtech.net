@@ -351,3 +351,6 @@ config:
 ## Conclusion
 
 Neovim is a tool of endless oppertunity. I haven't even scratched the surface of what is possible and already it does more for me quicker and easier than vscode did before. Yes it does getting used to, especially if you are used to operating software with your mouse as your core navigation tool but it is learned quickly if you want.
+
+> [!NOTE]
+> File names mentioned above are those that I chose. They have no bearing on the functionality. Except for the last one, which obviously needs to align with the filename provided in the lua script of the plugin.
