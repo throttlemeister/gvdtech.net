@@ -99,9 +99,7 @@ The last one is actually a standard plugin inside lazyvim, but I have a modified
 
 File:
 
-```
-~/.config/nvim/lua/plugins/render-markdown.lua
-```
+`~/.config/nvim/lua/plugins/render-markdown.lua`
 
 Source:
 
@@ -282,9 +280,7 @@ This plugin helps me to quickly organize and work with creating notes or related
 
 File:
 
-```
-~/.config/nvim/lua/plugins/mkdwnflow.lua
-```
+`~/.config/nvim/lua/plugins/mkdwnflow.lua`
 
 Source:
 
@@ -305,9 +301,7 @@ Same as mkdnflow basically. This plugin makes sure indentation of code blocks in
 
 File:
 
-```
-~/.config/nvim/lua/plugins/indent.lua
-```
+`~/.config/nvim/lua/plugins/indent.lua`
 
 Source:
 
@@ -327,10 +321,8 @@ And the last one, which is basically a fix, as I said. It points to a dot-file i
 
 File:
 
-```
-~/.config/nvim/lua/plugins/markdown-lint.lua
-~/.markdownlint-cli2.yaml
-```
+`~/.config/nvim/lua/plugins/markdown-lint.lua`
+`~/.markdownlint-cli2.yaml`
 
 Source:
 
