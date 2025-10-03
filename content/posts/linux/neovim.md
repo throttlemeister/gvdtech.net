@@ -1,6 +1,7 @@
 ---
 title: "Neovim"
 date: 2025-10-03T14:58:56+02:00
+author: throttlemeister
 draft: false
 description: "Some bits and pieces on my Neovim configuration"
 tags: [ computer, linux, Neovim ]
@@ -18,9 +19,7 @@ First off, as you may have guessed if you have been here before, I use Catpuccin
 
 File:
 
-```
-~/.config/nvim/lua/config/colorscheme.lua
-```
+`~/.config/nvim/lua/config/colorscheme.lua`
 
 Source:
 
