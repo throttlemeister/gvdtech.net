@@ -10,7 +10,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Linux and tech"
-author = { image = "empty.png", name = "Linux and Tech" }
+author = { name = "Linux and Tech" }
 
 #[params.author]
 #image = "empty.png"
