@@ -17,7 +17,10 @@ Neovim has been my go-to editor for a while now, and over time I have collected 
 First off, as you may have guessed if you have been here before, I use Catpuccin (Frappe flavor) as my default colorscheme for just about everything and everywhere if I can. Same for Neovim, however I have been experiencing some issues with Catpuccin and bufferline (one of the default lazyvim plugins) after upgrades. Figured out, manual config change fixes this.
 
 File:
-    ~/.config/nvim/lua/config/colorscheme.lua
+
+```
+~/.config/nvim/lua/config/colorscheme.lua
+```
 
 Source:
 
@@ -96,7 +99,10 @@ The last one is actually a standard plugin inside lazyvim, but I have a modified
 ### Render-Markdown
 
 File:
-    ~/.config/nvim/lua/plugins/render-markdown.lua
+
+```
+~/.config/nvim/lua/plugins/render-markdown.lua
+```
 
 Source:
 
@@ -276,7 +282,10 @@ What's it do, you may ask? It renders markdown files inside neovim and while you
 This plugin helps me to quickly organize and work with creating notes or related and linked files from Neovim. For now, I have not customized its configuration so it is very basic.
 
 File:
-    ~/.config/nvim/lua/plugins/mkdwnflow.lua
+
+```
+~/.config/nvim/lua/plugins/mkdwnflow.lua
+```
 
 Source:
 
@@ -296,7 +305,10 @@ return {
 Same as mkdnflow basically. This plugin makes sure indentation of code blocks in Markdown files are done properly according to the language of the code block.
 
 File:
-    ~/.config/nvim/lua/plugins/indent.lua
+
+```
+~/.config/nvim/lua/plugins/indent.lua
+```
 
 Source:
 
@@ -315,8 +327,11 @@ return {
 And the last one, which is basically a fix, as I said. It points to a dot-file in my home directory to suppress a specific linter error that is not applicable in Markdown.
 
 File:
-    ~/.config/nvim/lua/plugins/markdown-lint.lua
-    ~/.markdownlint-cli2.yaml
+
+```
+~/.config/nvim/lua/plugins/markdown-lint.lua
+~/.markdownlint-cli2.yaml
+```
 
 Source:
 
