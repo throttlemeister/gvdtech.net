@@ -2,389 +2,399 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on crashdot.com</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 00:06:03 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Oct 2025 14:58:56 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Computer</title>
-      <link>//localhost:1313/tags/computer/</link>
-      <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
+      <link>http://localhost:1313/tags/computer/</link>
+      <pubDate>Fri, 03 Oct 2025 14:58:56 +0200</pubDate>
       
-      <guid>//localhost:1313/tags/computer/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Networking</title>
-      <link>//localhost:1313/tags/networking/</link>
-      <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
-      
-      <guid>//localhost:1313/tags/networking/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Unifi</title>
-      <link>//localhost:1313/tags/unifi/</link>
-      <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
-      
-      <guid>//localhost:1313/tags/unifi/</guid>
+      <guid>http://localhost:1313/tags/computer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>//localhost:1313/tags/linux/</link>
-      <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Fri, 03 Oct 2025 14:58:56 +0200</pubDate>
       
-      <guid>//localhost:1313/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neovim</title>
+      <link>http://localhost:1313/tags/neovim/</link>
+      <pubDate>Fri, 03 Oct 2025 14:58:56 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/neovim/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/tags/networking/</link>
+      <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/networking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unifi</title>
+      <link>http://localhost:1313/tags/unifi/</link>
+      <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/unifi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notes</title>
-      <link>//localhost:1313/tags/notes/</link>
+      <link>http://localhost:1313/tags/notes/</link>
       <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
       
-      <guid>//localhost:1313/tags/notes/</guid>
+      <guid>http://localhost:1313/tags/notes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Opensuse</title>
-      <link>//localhost:1313/tags/opensuse/</link>
+      <link>http://localhost:1313/tags/opensuse/</link>
       <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
       
-      <guid>//localhost:1313/tags/opensuse/</guid>
+      <guid>http://localhost:1313/tags/opensuse/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Terminal</title>
-      <link>//localhost:1313/tags/terminal/</link>
+      <link>http://localhost:1313/tags/terminal/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/terminal/</guid>
+      <guid>http://localhost:1313/tags/terminal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Utilities</title>
-      <link>//localhost:1313/tags/utilities/</link>
+      <link>http://localhost:1313/tags/utilities/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/utilities/</guid>
+      <guid>http://localhost:1313/tags/utilities/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>//localhost:1313/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Various</title>
-      <link>//localhost:1313/tags/various/</link>
+      <link>http://localhost:1313/tags/various/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/various/</guid>
+      <guid>http://localhost:1313/tags/various/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dotfiles</title>
-      <link>//localhost:1313/tags/dotfiles/</link>
+      <link>http://localhost:1313/tags/dotfiles/</link>
       <pubDate>Tue, 17 Sep 2024 13:52:22 +0200</pubDate>
       
-      <guid>//localhost:1313/tags/dotfiles/</guid>
+      <guid>http://localhost:1313/tags/dotfiles/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kde</title>
-      <link>//localhost:1313/tags/kde/</link>
+      <link>http://localhost:1313/tags/kde/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/kde/</guid>
+      <guid>http://localhost:1313/tags/kde/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kde6</title>
-      <link>//localhost:1313/tags/kde6/</link>
+      <link>http://localhost:1313/tags/kde6/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/kde6/</guid>
+      <guid>http://localhost:1313/tags/kde6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Atomic</title>
-      <link>//localhost:1313/tags/atomic/</link>
+      <link>http://localhost:1313/tags/atomic/</link>
       <pubDate>Sat, 23 Mar 2024 13:52:22 +0200</pubDate>
       
-      <guid>//localhost:1313/tags/atomic/</guid>
+      <guid>http://localhost:1313/tags/atomic/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sdboot</title>
-      <link>//localhost:1313/tags/sdboot/</link>
+      <link>http://localhost:1313/tags/sdboot/</link>
       <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
       
-      <guid>//localhost:1313/tags/sdboot/</guid>
+      <guid>http://localhost:1313/tags/sdboot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Systemd-Boot</title>
-      <link>//localhost:1313/tags/systemd-boot/</link>
+      <link>http://localhost:1313/tags/systemd-boot/</link>
       <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
       
-      <guid>//localhost:1313/tags/systemd-boot/</guid>
+      <guid>http://localhost:1313/tags/systemd-boot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hyprland</title>
-      <link>//localhost:1313/tags/hyprland/</link>
+      <link>http://localhost:1313/tags/hyprland/</link>
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/hyprland/</guid>
+      <guid>http://localhost:1313/tags/hyprland/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Freebsd</title>
-      <link>//localhost:1313/tags/freebsd/</link>
+      <link>http://localhost:1313/tags/freebsd/</link>
       <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/freebsd/</guid>
+      <guid>http://localhost:1313/tags/freebsd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Containers</title>
-      <link>//localhost:1313/tags/containers/</link>
+      <link>http://localhost:1313/tags/containers/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/containers/</guid>
+      <guid>http://localhost:1313/tags/containers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homelab</title>
-      <link>//localhost:1313/tags/homelab/</link>
+      <link>http://localhost:1313/tags/homelab/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/homelab/</guid>
+      <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>F1</title>
-      <link>//localhost:1313/tags/f1/</link>
+      <link>http://localhost:1313/tags/f1/</link>
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/f1/</guid>
+      <guid>http://localhost:1313/tags/f1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>F1Academy</title>
-      <link>//localhost:1313/tags/f1academy/</link>
+      <link>http://localhost:1313/tags/f1academy/</link>
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/f1academy/</guid>
+      <guid>http://localhost:1313/tags/f1academy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Racing</title>
-      <link>//localhost:1313/tags/racing/</link>
+      <link>http://localhost:1313/tags/racing/</link>
       <pubDate>Wed, 08 Mar 2023 08:52:34 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/racing/</guid>
+      <guid>http://localhost:1313/tags/racing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fedora</title>
-      <link>//localhost:1313/tags/fedora/</link>
+      <link>http://localhost:1313/tags/fedora/</link>
       <pubDate>Sun, 15 May 2022 14:44:57 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/fedora/</guid>
+      <guid>http://localhost:1313/tags/fedora/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Performance</title>
-      <link>//localhost:1313/tags/performance/</link>
+      <link>http://localhost:1313/tags/performance/</link>
       <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/performance/</guid>
+      <guid>http://localhost:1313/tags/performance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Grafana</title>
-      <link>//localhost:1313/tags/grafana/</link>
+      <link>http://localhost:1313/tags/grafana/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/grafana/</guid>
+      <guid>http://localhost:1313/tags/grafana/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Zabbix</title>
-      <link>//localhost:1313/tags/zabbix/</link>
+      <link>http://localhost:1313/tags/zabbix/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/zabbix/</guid>
+      <guid>http://localhost:1313/tags/zabbix/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kvm</title>
-      <link>//localhost:1313/tags/kvm/</link>
+      <link>http://localhost:1313/tags/kvm/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/kvm/</guid>
+      <guid>http://localhost:1313/tags/kvm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Virtualization</title>
-      <link>//localhost:1313/tags/virtualization/</link>
+      <link>http://localhost:1313/tags/virtualization/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/virtualization/</guid>
+      <guid>http://localhost:1313/tags/virtualization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lxc</title>
-      <link>//localhost:1313/tags/lxc/</link>
+      <link>http://localhost:1313/tags/lxc/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/lxc/</guid>
+      <guid>http://localhost:1313/tags/lxc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lxd</title>
-      <link>//localhost:1313/tags/lxd/</link>
+      <link>http://localhost:1313/tags/lxd/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/lxd/</guid>
+      <guid>http://localhost:1313/tags/lxd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Redhat</title>
-      <link>//localhost:1313/tags/redhat/</link>
+      <link>http://localhost:1313/tags/redhat/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/redhat/</guid>
+      <guid>http://localhost:1313/tags/redhat/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rhel</title>
-      <link>//localhost:1313/tags/rhel/</link>
+      <link>http://localhost:1313/tags/rhel/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/rhel/</guid>
+      <guid>http://localhost:1313/tags/rhel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wsl</title>
-      <link>//localhost:1313/tags/wsl/</link>
+      <link>http://localhost:1313/tags/wsl/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/wsl/</guid>
+      <guid>http://localhost:1313/tags/wsl/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wsl2</title>
-      <link>//localhost:1313/tags/wsl2/</link>
+      <link>http://localhost:1313/tags/wsl2/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/wsl2/</guid>
+      <guid>http://localhost:1313/tags/wsl2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>//localhost:1313/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
       <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>//localhost:1313/tags/docker/</link>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gentoo</title>
-      <link>//localhost:1313/tags/gentoo/</link>
+      <link>http://localhost:1313/tags/gentoo/</link>
       <pubDate>Tue, 19 Jan 2021 15:55:01 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/gentoo/</guid>
+      <guid>http://localhost:1313/tags/gentoo/</guid>
       <description></description>
       
     </item>

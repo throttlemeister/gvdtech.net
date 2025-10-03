@@ -2,169 +2,169 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer on crashdot.com</title>
-    <link>//localhost:1313/categories/computer/</link>
+    <link>http://localhost:1313/categories/computer/</link>
     <description>Recent content in Computer on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 00:06:03 +0200</lastBuildDate><atom:link href="//localhost:1313/categories/computer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Aug 2025 00:06:03 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/computer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unifi 24 port POE switch</title>
-      <link>//localhost:1313/posts/unifi/us24poe/</link>
+      <link>http://localhost:1313/posts/unifi/us24poe/</link>
       <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/unifi/us24poe/</guid>
+      <guid>http://localhost:1313/posts/unifi/us24poe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>KDE Plasma 6: Don’t be fooled by the naysayers on the internet</title>
-      <link>//localhost:1313/posts/linux/kde6/</link>
+      <link>http://localhost:1313/posts/linux/kde6/</link>
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/kde6/</guid>
+      <guid>http://localhost:1313/posts/linux/kde6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSUSE Tumbleweed, 6 months in</title>
-      <link>//localhost:1313/posts/opensuse/6months/</link>
+      <link>http://localhost:1313/posts/opensuse/6months/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/opensuse/6months/</guid>
+      <guid>http://localhost:1313/posts/opensuse/6months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSUSE: 4 months in</title>
-      <link>//localhost:1313/posts/opensuse/4months/</link>
+      <link>http://localhost:1313/posts/opensuse/4months/</link>
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/opensuse/4months/</guid>
+      <guid>http://localhost:1313/posts/opensuse/4months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Interesting (or: first tiling windows manager experience)</title>
-      <link>//localhost:1313/posts/linux/interresting/</link>
+      <link>http://localhost:1313/posts/linux/interresting/</link>
       <pubDate>Fri, 13 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/interresting/</guid>
+      <guid>http://localhost:1313/posts/linux/interresting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>No more Windows. FreeBSD instead.</title>
-      <link>//localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</link>
+      <link>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</link>
       <pubDate>Tue, 10 Oct 2023 17:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</guid>
+      <guid>http://localhost:1313/posts/2023-10-10-no-more-windows-freebsd-instead/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The end to distro-hopping?</title>
-      <link>//localhost:1313/the-end-to-distro-hopping/</link>
+      <link>http://localhost:1313/the-end-to-distro-hopping/</link>
       <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
       
-      <guid>//localhost:1313/the-end-to-distro-hopping/</guid>
+      <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Running redundant AdGuard@Home DNS servers on Synology</title>
-      <link>//localhost:1313/posts/linux/adguard/</link>
+      <link>http://localhost:1313/posts/linux/adguard/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/adguard/</guid>
+      <guid>http://localhost:1313/posts/linux/adguard/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Optimizing Linux for desktop performance</title>
-      <link>//localhost:1313/posts/linux/performance/</link>
+      <link>http://localhost:1313/posts/linux/performance/</link>
       <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/performance/</guid>
+      <guid>http://localhost:1313/posts/linux/performance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Moving a Linux install to a new disk</title>
-      <link>//localhost:1313/posts/linux/moving/</link>
+      <link>http://localhost:1313/posts/linux/moving/</link>
       <pubDate>Mon, 08 Nov 2021 19:54:03 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/moving/</guid>
+      <guid>http://localhost:1313/posts/linux/moving/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Monitoring your network or homelab using Zabbix and Grafana</title>
-      <link>//localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
+      <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
       
-      <guid>//localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
+      <guid>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>As short as possible: application containers, system containers, virtualization</title>
-      <link>//localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</link>
+      <link>http://localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</link>
       <pubDate>Sat, 13 Feb 2021 10:09:41 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</guid>
+      <guid>http://localhost:1313/posts/quicky/application-containers-system-containers-virtualization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Did you know... (or, RHEL on LXC/LXD)</title>
-      <link>//localhost:1313/posts/linux/rhel-on-lxc/</link>
+      <link>http://localhost:1313/posts/linux/rhel-on-lxc/</link>
       <pubDate>Sat, 13 Feb 2021 09:40:20 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/rhel-on-lxc/</guid>
+      <guid>http://localhost:1313/posts/linux/rhel-on-lxc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tested distributions under WSL2</title>
-      <link>//localhost:1313/posts/wsl/tested-distributions-under-wsl2/</link>
+      <link>http://localhost:1313/posts/wsl/tested-distributions-under-wsl2/</link>
       <pubDate>Sat, 30 Jan 2021 22:16:31 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/wsl/tested-distributions-under-wsl2/</guid>
+      <guid>http://localhost:1313/posts/wsl/tested-distributions-under-wsl2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Any Linux distribution on Windows 10 with WSL2</title>
-      <link>//localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</link>
+      <link>http://localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</link>
       <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</guid>
+      <guid>http://localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gentoo on Windows with WSL2</title>
-      <link>//localhost:1313/posts/wsl/gentoo-on-wsl/</link>
+      <link>http://localhost:1313/posts/wsl/gentoo-on-wsl/</link>
       <pubDate>Tue, 19 Jan 2021 15:55:01 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/wsl/gentoo-on-wsl/</guid>
+      <guid>http://localhost:1313/posts/wsl/gentoo-on-wsl/</guid>
       <description></description>
       
     </item>

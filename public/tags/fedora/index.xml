@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fedora on crashdot.com</title>
-    <link>//localhost:1313/tags/fedora/</link>
+    <link>http://localhost:1313/tags/fedora/</link>
     <description>Recent content in Fedora on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Sun, 15 May 2022 14:44:57 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 14:44:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Upgraded laptop to Fedora 36</title>
-      <link>//localhost:1313/posts/linux/fedora36/</link>
+      <link>http://localhost:1313/posts/linux/fedora36/</link>
       <pubDate>Sun, 15 May 2022 14:44:57 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/fedora36/</guid>
+      <guid>http://localhost:1313/posts/linux/fedora36/</guid>
       <description></description>
       
     </item>

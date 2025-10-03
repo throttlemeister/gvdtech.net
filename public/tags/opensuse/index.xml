@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opensuse on crashdot.com</title>
-    <link>//localhost:1313/tags/opensuse/</link>
+    <link>http://localhost:1313/tags/opensuse/</link>
     <description>Recent content in Opensuse on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 22:58:17 +0100</lastBuildDate><atom:link href="//localhost:1313/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 22:58:17 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quick reference notes</title>
-      <link>//localhost:1313/posts/stuff/notes/</link>
+      <link>http://localhost:1313/posts/stuff/notes/</link>
       <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
       
-      <guid>//localhost:1313/posts/stuff/notes/</guid>
+      <guid>http://localhost:1313/posts/stuff/notes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>One year of Tumbleweed</title>
-      <link>//localhost:1313/posts/opensuse/12months/</link>
+      <link>http://localhost:1313/posts/opensuse/12months/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/opensuse/12months/</guid>
+      <guid>http://localhost:1313/posts/opensuse/12months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Transactional updates on OpenSUSE Tumbleweed</title>
-      <link>//localhost:1313/posts/opensuse/transactional/</link>
+      <link>http://localhost:1313/posts/opensuse/transactional/</link>
       <pubDate>Sat, 23 Mar 2024 13:52:22 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/opensuse/transactional/</guid>
+      <guid>http://localhost:1313/posts/opensuse/transactional/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSUSE Tumbleweed, 6 months in</title>
-      <link>//localhost:1313/posts/opensuse/6months/</link>
+      <link>http://localhost:1313/posts/opensuse/6months/</link>
       <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/opensuse/6months/</guid>
+      <guid>http://localhost:1313/posts/opensuse/6months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>systemd-boot on OpenSUSE</title>
-      <link>//localhost:1313/posts/opensuse/sdboot/</link>
+      <link>http://localhost:1313/posts/opensuse/sdboot/</link>
       <pubDate>Thu, 18 Jan 2024 23:01:17 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/opensuse/sdboot/</guid>
+      <guid>http://localhost:1313/posts/opensuse/sdboot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSUSE: 4 months in</title>
-      <link>//localhost:1313/posts/opensuse/4months/</link>
+      <link>http://localhost:1313/posts/opensuse/4months/</link>
       <pubDate>Mon, 04 Dec 2023 18:54:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/opensuse/4months/</guid>
+      <guid>http://localhost:1313/posts/opensuse/4months/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The end to distro-hopping?</title>
-      <link>//localhost:1313/the-end-to-distro-hopping/</link>
+      <link>http://localhost:1313/the-end-to-distro-hopping/</link>
       <pubDate>Fri, 04 Aug 2023 21:33:15 +0000</pubDate>
       
-      <guid>//localhost:1313/the-end-to-distro-hopping/</guid>
+      <guid>http://localhost:1313/the-end-to-distro-hopping/</guid>
       <description></description>
       
     </item>

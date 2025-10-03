@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Performance on crashdot.com</title>
-    <link>//localhost:1313/tags/performance/</link>
+    <link>http://localhost:1313/tags/performance/</link>
     <description>Recent content in Performance on crashdot.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Wed, 17 Nov 2021 19:31:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 19:31:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Optimizing Linux for desktop performance</title>
-      <link>//localhost:1313/posts/linux/performance/</link>
+      <link>http://localhost:1313/posts/linux/performance/</link>
       <pubDate>Wed, 17 Nov 2021 19:31:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/linux/performance/</guid>
+      <guid>http://localhost:1313/posts/linux/performance/</guid>
       <description></description>
       
     </item>
