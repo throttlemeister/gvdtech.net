@@ -7,6 +7,7 @@ tags:
   - firefox
 author: throttlemeister
 date: 2025-11-06T12:58:00
+draft: false
 ---
 ## AMD + KDE Crashes
 
