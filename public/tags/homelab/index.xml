@@ -4,30 +4,23 @@
     <title>Homelab on crashdot.com</title>
     <link>http://localhost:1313/tags/homelab/</link>
     <description>Recent content in Homelab on crashdot.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Wed, 03 May 2023 12:59:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 03 May 2023 12:59:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Running redundant AdGuard@Home DNS servers on Synology</title>
       <link>http://localhost:1313/posts/linux/adguard/</link>
       <pubDate>Wed, 03 May 2023 12:59:04 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/linux/adguard/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Monitoring your network or homelab using Zabbix and Grafana</title>
       <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>

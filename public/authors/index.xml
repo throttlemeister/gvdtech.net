@@ -4,10 +4,8 @@
     <title>Authors on crashdot.com</title>
     <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on crashdot.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Linux and Tech</copyright>
     <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>

@@ -4,20 +4,16 @@
     <title>Unifi on crashdot.com</title>
     <link>http://localhost:1313/categories/unifi/</link>
     <description>Recent content in Unifi on crashdot.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 00:06:03 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/unifi/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 03 Aug 2025 00:06:03 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/unifi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unifi 24 port POE switch</title>
       <link>http://localhost:1313/posts/unifi/us24poe/</link>
       <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
-      
       <guid>http://localhost:1313/posts/unifi/us24poe/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>

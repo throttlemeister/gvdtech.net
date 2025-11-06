@@ -4,20 +4,16 @@
     <title>Docker on crashdot.com</title>
     <link>http://localhost:1313/tags/docker/</link>
     <description>Recent content in Docker on crashdot.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Tue, 19 Jan 2021 15:57:01 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 19 Jan 2021 15:57:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Any Linux distribution on Windows 10 with WSL2</title>
       <link>http://localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</link>
       <pubDate>Tue, 19 Jan 2021 15:57:01 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/wsl/any-linux-distribution-on-windows-10-with-wsl2/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>
