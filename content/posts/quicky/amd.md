@@ -1,9 +1,10 @@
 ---
 title: "AMD + KDE Crashes"
-author: throttlemeister
-date: 2025-11-06T12:58:00
-tags: [ linux, AMD, kwin, firefox ]
+date: 2025-11-06T12:58:00+02:00
 draft: false
+tags: [ linux, AMD, kwin, firefox ]
+categories: [ linux, kde, amd ]
+author: throttlemeister
 ---
 ## AMD + KDE Crashes
 
