@@ -1,8 +1,8 @@
 ---
                 title: "glomyer.dev"
-                tags: [個人サイト]
+                tags: [パーソナルサイト]
                 externalUrl: "https://luizglomyer.github.io/"
-                weight: 73
+                weight: 78
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

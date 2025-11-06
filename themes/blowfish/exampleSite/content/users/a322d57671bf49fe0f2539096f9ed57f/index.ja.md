@@ -1,8 +1,8 @@
 ---
                 title: "aakashnand.com"
-                tags: [個人サイト]
+                tags: [パーソナルサイト]
                 externalUrl: "https://aakashnand.com/"
-                weight: 59
+                weight: 61
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

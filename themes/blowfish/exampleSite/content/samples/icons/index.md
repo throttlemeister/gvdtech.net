@@ -27,8 +27,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | bug                  | {{< icon bug >}}                  |
 | check                | {{< icon check >}}                |
 | circle-info          | {{< icon circle-info >}}          |
-| cloud                | {{< icon cloud >}}                |
-| cloud-moon           | {{< icon cloud-moon >}}           |
 | code                 | {{< icon code>}}                  |
 | codeberg             | {{< icon codeberg >}}             |
 | codepen              | {{< icon codepen >}}              |
@@ -44,7 +42,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | expand               | {{< icon expand >}}               |
 | eye                  | {{< icon eye >}}                  |
 | facebook             | {{< icon facebook >}}             |
-| fediverse            | {{< icon fediverse >}}            |
 | fire                 | {{< icon fire >}}                 |
 | flickr               | {{< icon flickr >}}               |
 | fork                 | {{< icon fork >}}                 |
@@ -55,7 +52,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | globe                | {{< icon globe >}}                |
 | goodreads            | {{< icon goodreads >}}            |
 | google               | {{< icon google >}}               |
-| google-scholar       | {{< icon google-scholar >}}       |
 | graduation-cap       | {{< icon graduation-cap >}}       |
 | hackernews           | {{< icon hackernews >}}           |
 | hashnode             | {{< icon hashnode >}}             |
@@ -65,7 +61,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | instagram            | {{< icon instagram >}}            |
 | itch-io              | {{< icon itch-io >}}              |
 | keybase              | {{< icon keybase >}}              |
-| keyoxide             | {{< icon keyoxide >}}             |
 | kickstarter          | {{< icon kickstarter >}}          |
 | ko-fi                | {{< icon ko-fi >}}                |
 | language             | {{< icon language >}}             |
@@ -78,7 +73,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | location-dot         | {{< icon location-dot >}}         |
 | lock                 | {{< icon lock >}}                 |
 | mastodon             | {{< icon mastodon >}}             |
-| matrix               | {{< icon matrix >}}               |
 | medium               | {{< icon medium >}}               |
 | microsoft            | {{< icon microsoft >}}            |
 | moon                 | {{< icon moon >}}                 |
@@ -101,7 +95,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | scale-balanced       | {{< icon scale-balanced >}}       |
 | search               | {{< icon search >}}               |
 | shield               | {{< icon shield >}}               |
-| signal               | {{< icon signal >}}               |
 | skull-crossbones     | {{< icon skull-crossbones >}}     |
 | slack                | {{< icon slack >}}                |
 | snapchat             | {{< icon snapchat >}}             |

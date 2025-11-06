@@ -2,7 +2,7 @@
                 title: "BoringTech.net"
                 tags: [Sito personale, Blog]
                 externalUrl: "https://boringtech.net/"
-                weight: 51
+                weight: 53
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

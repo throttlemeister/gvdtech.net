@@ -1,8 +1,8 @@
 ---
                 title: "abantikabhuti.github.io"
-                tags: [個人サイト, ポートフォリオ]
+                tags: [パーソナルサイト, ポートフォリオ]
                 externalUrl: "https://abantikabhuti.github.io"
-                weight: 97
+                weight: 103
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

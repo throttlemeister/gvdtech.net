@@ -1,8 +1,8 @@
 ---
                 title: "utrodus.com"
-                tags: [Sito portfolio, Blog]
+                tags: [Sito di portafoglio, Blog]
                 externalUrl: "https://utrodus.com"
-                weight: 74
+                weight: 79
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

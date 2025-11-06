@@ -1,8 +1,8 @@
 ---
                 title: "kumacat.pages.dev"
-                tags: [個人サイト, ブログ]
+                tags: [パーソナルサイト, ブログ]
                 externalUrl: "https://kumacat.pages.dev"
-                weight: 71
+                weight: 76
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

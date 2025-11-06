@@ -1,6 +1,6 @@
 ---
                 title: "gma.name"
-                tags: [個人サイト]
+                tags: [パーソナルサイト]
                 externalUrl: "https://gma.name"
                 weight: 42
                 showDate: false

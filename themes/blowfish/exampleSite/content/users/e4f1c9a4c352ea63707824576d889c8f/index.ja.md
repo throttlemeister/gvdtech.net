@@ -1,8 +1,8 @@
 ---
                 title: "yag0x1.github.io"
-                tags: [個人サイト, ポートフォリオ]
+                tags: [パーソナルサイト, ポートフォリオ]
                 externalUrl: "https://yag0x1.github.io"
-                weight: 98
+                weight: 104
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

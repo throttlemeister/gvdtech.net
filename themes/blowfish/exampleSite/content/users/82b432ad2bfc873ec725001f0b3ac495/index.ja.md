@@ -1,8 +1,8 @@
 ---
                 title: "BoringTech.net"
-                tags: [個人サイト, ブログ]
+                tags: [パーソナルサイト, ブログ]
                 externalUrl: "https://boringtech.net/"
-                weight: 51
+                weight: 53
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

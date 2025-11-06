@@ -1,6 +1,6 @@
 ---
                 title: "blog.muffn.io"
-                tags: [個人サイト]
+                tags: [パーソナルサイト]
                 externalUrl: "https://blog.muffn.io/"
                 weight: 20
                 showDate: false

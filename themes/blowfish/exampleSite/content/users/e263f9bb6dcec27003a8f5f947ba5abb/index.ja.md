@@ -1,8 +1,8 @@
 ---
                 title: "Academy Customize"
-                tags: [事業所]
+                tags: [ビジネスサイト]
                 externalUrl: "https://acamize.com/"
-                weight: 79
+                weight: 85
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

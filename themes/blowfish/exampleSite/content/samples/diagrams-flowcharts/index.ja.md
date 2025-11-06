@@ -15,6 +15,7 @@ Mermaid 図は `mermaid` ショートコードを使うことで Blowfish でサ
 
 ## フローチャート
 
+<div style="background-color:white; padding: 20px">
 {{< mermaid >}}
 graph TD
 A[クリスマス] -->|収入| B(買い物にいく)
@@ -31,9 +32,11 @@ F
 G
 end
 {{< /mermaid >}}
+</div>
 
 ## 順序図
 
+<div style="background-color:white; padding: 20px">
 {{< mermaid >}}
 sequenceDiagram
 autonumber
@@ -51,9 +54,11 @@ loop 毎分
 ジョン-->アリス: すばらしい!
 end
 {{< /mermaid >}}
+</div>
 
 ## クラス図
 
+<div style="background-color:white; padding: 20px">
 {{< mermaid >}}
 classDiagram
 Animal "1" <|-- Duck
@@ -77,9 +82,11 @@ class Zebra{
 +run()
 }
 {{< /mermaid >}}
+</div>
 
 ## 主従関係図
 
+<div style="background-color:white; padding: 20px">
 {{< mermaid >}}
 erDiagram
 CUSTOMER }|..|{ DELIVERY-ADDRESS : has
@@ -91,3 +98,5 @@ ORDER ||--|{ ORDER-ITEM : includes
 PRODUCT-CATEGORY ||--|{ PRODUCT : contains
 PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 {{< /mermaid >}}
+</div>
+

@@ -4,16 +4,20 @@
     <title>Grafana on crashdot.com</title>
     <link>http://localhost:1313/tags/grafana/</link>
     <description>Recent content in Grafana on crashdot.com</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jul 2021 21:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/grafana/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Linux and Tech</copyright>
+    <lastBuildDate>Mon, 26 Jul 2021 21:30:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/grafana/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Monitoring your network or homelab using Zabbix and Grafana</title>
       <link>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</link>
       <pubDate>Mon, 26 Jul 2021 21:30:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/monitoring-your-network-or-homelab-using-zabbix-and-grafana/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

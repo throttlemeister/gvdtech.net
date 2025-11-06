@@ -1,8 +1,8 @@
 ---
                 title: "eallion.com"
-                tags: [ブログ, 個人サイト]
+                tags: [ブログ, パーソナルサイト]
                 externalUrl: "http://www.eallion.com/"
-                weight: 63
+                weight: 65
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

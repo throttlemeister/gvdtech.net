@@ -1,8 +1,8 @@
 ---
                 title: "blog.francescopapini.com"
-                tags: [Blog sulla tecnologia, Sito personale, Blog]
+                tags: [Sito personale, Blog]
                 externalUrl: "https://blog.francescopapini.com"
-                weight: 95
+                weight: 97
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

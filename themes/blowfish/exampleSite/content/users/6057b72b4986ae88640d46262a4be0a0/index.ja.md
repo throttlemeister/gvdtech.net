@@ -1,8 +1,8 @@
 ---
                 title: "Adri Antunez's Cloud Site"
-                tags: [テクノロジーブログ, 個人サイト, ブログ]
+                tags: [テクノロジーブログ, パーソナルサイト, ブログ]
                 externalUrl: "https://adriantunez.cloud"
-                weight: 92
+                weight: 98
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

@@ -1,6 +1,6 @@
 ---
                 title: "blastomussa.dev"
-                tags: [個人サイト]
+                tags: [パーソナルサイト]
                 externalUrl: "https://blastomussa.dev"
                 weight: 12
                 showDate: false

@@ -1,6 +1,6 @@
 ---
                 title: "pacochan.net"
-                tags: [個人サイト]
+                tags: [パーソナルサイト]
                 externalUrl: "https://pacochan.net"
                 weight: 37
                 showDate: false

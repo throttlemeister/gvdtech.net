@@ -1,8 +1,8 @@
 ---
                 title: "Laterre Dev"
-                tags: [個人サイト, テクノロジーブログ, ソフトウェア開発者, ポートフォリオサイト]
+                tags: [パーソナルサイト, テクノロジーブログ, ソフトウェア開発者, ポートフォリオサイト]
                 externalUrl: "https://laterre.dev/"
-                weight: 82
+                weight: 88
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

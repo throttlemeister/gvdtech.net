@@ -4,16 +4,20 @@
     <title>Notes on crashdot.com</title>
     <link>http://localhost:1313/tags/notes/</link>
     <description>Recent content in Notes on crashdot.com</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 22:58:17 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Linux and Tech</copyright>
+    <lastBuildDate>Sat, 30 Nov 2024 22:58:17 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Quick reference notes</title>
       <link>http://localhost:1313/posts/stuff/notes/</link>
       <pubDate>Sat, 30 Nov 2024 22:58:17 +0100</pubDate>
+      
       <guid>http://localhost:1313/posts/stuff/notes/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

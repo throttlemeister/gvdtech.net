@@ -4,23 +4,30 @@
     <title>Computer on crashdot.com</title>
     <link>http://localhost:1313/tags/computer/</link>
     <description>Recent content in Computer on crashdot.com</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Oct 2025 14:58:56 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Linux and Tech</copyright>
+    <lastBuildDate>Fri, 03 Oct 2025 14:58:56 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Neovim</title>
       <link>http://localhost:1313/posts/linux/neovim/</link>
       <pubDate>Fri, 03 Oct 2025 14:58:56 +0200</pubDate>
+      
       <guid>http://localhost:1313/posts/linux/neovim/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Unifi 24 port POE switch</title>
       <link>http://localhost:1313/posts/unifi/us24poe/</link>
       <pubDate>Sun, 03 Aug 2025 00:06:03 +0200</pubDate>
+      
       <guid>http://localhost:1313/posts/unifi/us24poe/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

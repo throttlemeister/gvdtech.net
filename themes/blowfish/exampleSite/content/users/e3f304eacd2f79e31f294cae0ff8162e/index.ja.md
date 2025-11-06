@@ -1,8 +1,8 @@
 ---
                 title: "irusukan"
-                tags: [個人サイト, ブログ]
+                tags: [パーソナルサイト, ブログ]
                 externalUrl: "https://irusukan.com"
-                weight: 93
+                weight: 99
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

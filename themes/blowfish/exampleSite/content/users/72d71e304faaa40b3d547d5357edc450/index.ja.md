@@ -1,6 +1,6 @@
 ---
                 title: "priyakdey.com"
-                tags: [個人サイト]
+                tags: [パーソナルサイト]
                 externalUrl: "https://priyakdey.com"
                 weight: 15
                 showDate: false

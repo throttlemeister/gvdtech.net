@@ -1,8 +1,8 @@
 ---
                 title: "Hudson McNamara"
-                tags: [個人サイト, ブログ]
+                tags: [パーソナルサイト, ブログ]
                 externalUrl: "https://hudsonmcnamara.com"
-                weight: 88
+                weight: 94
                 showDate: false
                 showAuthor: false
                 showReadingTime: false
