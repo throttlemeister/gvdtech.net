@@ -3,8 +3,8 @@ title: "Sddm"
 date: 2025-10-06T20:04:30+02:00
 draft: false
 description: "SDDM on Wayland"
-tags: [ linux, opensuse, wayland ]
-categories: [ linux, opensuse ]
+tags: { linux, opensuse, wayland }
+categories: { linux, opensuse }
 author: throttlemeister
 ---
 # Running SDDM on Wayland
@@ -30,7 +30,6 @@ DisplayServer=wayland
 systemctl stop display-manager-legacy
 systemctl disable display-manager-legacy
 ```
-
 > [!NOTE]
 > You need to do this from a tty, so switch to it using `CTRL-ALT-F3`. If you don't, stopping the displaymanager will likely kill your session.. :)
 
