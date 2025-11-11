@@ -14,34 +14,10 @@ identifier = "yr6CO5lK5F"
 weight = 6
 
 [[main]]
-name = "Linux"
-pageRef = "/posts/linux"
+name = "Browse Categories"
+pageRef = "/categories"
 parent = "Categories"
-weight = 1
-
-[[main]]
-name = "openSUSE"
-pageRef = "/posts/opensuse"
-parent = "Categories"
-weight = 2
-
-[[main]]
-name = "WSL"
-pageRef = "/posts/wsl"
-parent = "Categories"
-weight = 3
-
-[[main]]
-name = "Quicky"
-pageRef = "/posts/quicky"
-parent = "Categories"
-weight = 4
-
-[[main]]
-name = "Various Stuff"
-pageRef = "/posts/stuff"
-parent = "Categories"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Browse Tags"

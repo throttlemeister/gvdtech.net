@@ -7,10 +7,6 @@ categories:
   - Desktop
   - KDE
   - Linux
-tags:
-  - desktop
-  - kde
-  - linux
 tags: ["linux", "kde", "kde6"]
 ---
 ## Introduction

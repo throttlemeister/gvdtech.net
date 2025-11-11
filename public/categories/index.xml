@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on crashdot.com</title>
+    <title>Categories on gvdtech.net</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on crashdot.com</description>
+    <description>Recent content in Categories on gvdtech.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Linux and Tech</copyright>
-    <lastBuildDate>Fri, 03 Oct 2025 14:58:56 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 12:58:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Computers</title>
-      <link>http://localhost:1313/categories/computers/</link>
-      <pubDate>Fri, 03 Oct 2025 14:58:56 +0200</pubDate>
+      <title>Firefox</title>
+      <link>http://localhost:1313/categories/firefox/</link>
+      <pubDate>Thu, 06 Nov 2025 12:58:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/categories/computers/</guid>
+      <guid>http://localhost:1313/categories/firefox/</guid>
       <description></description>
       
     </item>
@@ -22,9 +22,29 @@
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/categories/linux/</link>
-      <pubDate>Fri, 03 Oct 2025 14:58:56 +0200</pubDate>
+      <pubDate>Thu, 06 Nov 2025 12:58:00 +0200</pubDate>
       
       <guid>http://localhost:1313/categories/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Opensuse</title>
+      <link>http://localhost:1313/categories/opensuse/</link>
+      <pubDate>Mon, 06 Oct 2025 20:04:30 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/opensuse/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computers</title>
+      <link>http://localhost:1313/categories/computers/</link>
+      <pubDate>Fri, 03 Oct 2025 14:58:56 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/computers/</guid>
       <description></description>
       
     </item>
@@ -95,16 +115,6 @@
       <pubDate>Thu, 02 May 2024 21:34:58 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/kde/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>OpenSUSE</title>
-      <link>http://localhost:1313/categories/opensuse/</link>
-      <pubDate>Sat, 02 Mar 2024 23:50:13 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/opensuse/</guid>
       <description></description>
       
     </item>
