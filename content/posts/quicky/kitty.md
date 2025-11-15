@@ -56,11 +56,9 @@ to somewhere convenient in `fish_prompt.fish`. This ensures that when the shell 
 
 After we have done all this, this is the result:
 
-First when we open a regular shell:
-![Standard user shell](/kitty_normal.png)
-
-And then when we `sudu -i` to become root:
-![Root shell](/kitty_root.png)
+| Regular user | root access |
+| --- | --- |
+| ![Standard user shell](/kitty_normal.png) |  ![Root shell](/kitty_root.png) |
 
 If we exit the root shell, the window returns back to the first visual configuration.
 
