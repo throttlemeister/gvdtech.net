@@ -63,3 +63,6 @@ After we have done all this, this is the result:
 If we exit the root shell, the window returns back to the first visual configuration.
 
 Done! We now have a very visual indicator to let us know we are working as the root user and we should be extra careful as to what we are doing.
+
+> [!WARNING]
+> This only works as described using the Kitty terminal. If you follow this, you may break other terminal programs you may use if you don't ensure this changes only apply when using Kitty.
