@@ -76,11 +76,22 @@ function __check_term
   if set -q KITTY_WINDOW_ID
     if [ (id -u) = 0 ]
       kitty @ set-colors background=#82181A
+      return 0
     else
       kitty @ set-colors background=#303446
+      return 0
+    end
+  end
+  if set -q ALACRITTY_WINDOW_ID
+    if [ (id -u) = 0 ]
+      alacritty msg config "colors.primary.background='#82181A'"
+      return 0
+    else
+      alacritty msg config "colors.primary.background='#303446'"
+      return 0
     end
   end
 end
 ```
 
-This checks for a variable set by kitty and sets the background when kitty is running, and does nothing when it is not - aka when another terminal emulator is used.
+This checks for a variable set by Kitty or Alacritty and sets the background when either is running, and does nothing when it is not - aka when another terminal emulator like Konsole is used. This prevents breakage or error messages when attempting to set commands that are not available for the currently used terminal.
