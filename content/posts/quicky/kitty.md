@@ -98,3 +98,6 @@ end
 ```
 
 This checks for a variable set by Kitty or Alacritty and sets the background when either is running, and does nothing when it is not - aka when another terminal emulator like Konsole is used. This prevents breakage or error messages when attempting to set commands that are not available for the currently used terminal.
+
+> [!NOTE]
+> You also want to use visudo to add `KITTY_WINDOW_ID ALACRITTY_WINDOW_ID ALACRITTY_SOCKET` to the line for env_keep to ensure some environment variables are transferred to the root shell from your user.
