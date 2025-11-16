@@ -66,3 +66,21 @@ Done! We now have a very visual indicator to let us know we are working as the r
 
 > [!WARNING]
 > This only works as described using the Kitty terminal. If you follow this, you may break other terminal programs you may use if you don't ensure this changes only apply when using Kitty.
+
+## UPDATE 20251116
+
+As I am using the fish shell, I have added the following function to my fish_prompt.fish file and call it when building my prompt:
+
+```fish
+function __check_term
+  if set -q KITTY_WINDOW_ID
+    if [ (id -u) = 0 ]
+      kitty @ set-colors background=#82181A
+    else
+      kitty @ set-colors background=#303446
+    end
+  end
+end
+```
+
+This checks for a variable set by kitty and sets the background when kitty is running, and does nothing when it is not - aka when another terminal emulator is used.
