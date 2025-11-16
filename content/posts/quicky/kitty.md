@@ -14,6 +14,9 @@ When opening a root shell or administrator window and having it open with a diff
 
 This article demonstrates how I achieved that while using kitty as my terminal emulator.
 
+> [!NOTE]
+> Scroll down to the bottom to the update from 20251116, where I show the syntax used for Alacritty to achieve the same thing.
+
 ## Let's get started
 
 ### Step 1
