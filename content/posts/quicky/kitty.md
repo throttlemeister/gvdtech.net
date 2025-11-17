@@ -101,3 +101,21 @@ This checks for a variable set by Kitty or Alacritty and sets the background whe
 
 > [!NOTE]
 > You also want to use visudo to add `KITTY_WINDOW_ID ALACRITTY_WINDOW_ID ALACRITTY_SOCKET` to the line for env_keep to ensure some environment variables are transferred to the root shell from your user.
+
+## UPDATE 20251115: a more universal way of doing things
+
+So, after posting about this on Reddit, a contributor showed me an easier and more universal means of doing things. Not by using the programmatic interface for Kitty and Alacritty, but using escape codes to set the background color. This a allows for simpler scripting in fish_prompt.fish, and as bonus works in any terminal emulator that supports escape codes. Which should be most of them.
+
+This is how it now looks in my fish_prompt.fish:
+
+```fish
+function __check_term
+    if [ (id -u) = 0 ]
+        printf '\x1b]11;#82181A\x1b\\'
+    else
+        printf '\x1b]11;#303446\x1b\\'
+    end
+end
+```
+
+That's it. Very simple, very clean. No modifications to `/etc/sudoers` needed. No potential security risks by allowing remote access to your terminal. Just clean and simple.
