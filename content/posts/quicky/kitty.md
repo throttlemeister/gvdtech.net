@@ -6,8 +6,6 @@ tags: [ linux, kitty, quicky ]
 categories: [ linux, kitty ]
 author: throttlemeister
 ---
-# Changing the background color of a root shell in kitty
-
 ## Introduction
 
 When opening a root shell or administrator window and having it open with a different color background than one opened as a regular user is not a novel concept. It is a visual reminder that you are operating in God Mode. However, this typically does not happen when switching to root using `sudo` from a regular window.

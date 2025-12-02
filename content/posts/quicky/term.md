@@ -6,8 +6,6 @@ tags: [ linux, terminal, quicky ]
 categories: [ linux, terminal ]
 author: throttlemeister
 ---
-# Changing the background color of a root shell in any terminal emulator
-
 ## Introduction
 
 When opening a root shell or administrator window and having it open with a different color background than one opened as a regular user is not a novel concept. It is a visual reminder that you are operating in God Mode. However, this typically does not happen when switching to root using `sudo` from a regular window.
@@ -36,8 +34,6 @@ When my fish prompt is being generated it calls this function and sets the backg
 
 > [!NOTE]
 > I use the same profile configuration for my regular user as well as root. If you do not, just use one of the `printf [..]` lines above where appropiate in your profile for whatever profile you are setting up.
-
-### Step 2
 
 ## Results
 
