@@ -28,12 +28,10 @@ function __check_term
 end
 ```
 
-This function checks if the user is root, and if so sets the background color to red. If not, it sets the background color to my default color as used by the (in my case) Catppuccin theme I am using. Set to whatever hexadecimal color code you prefer.
-
-When my fish prompt is being generated it calls this function and sets the background accordingly.
+When my prompt is being generated, this function checks if the user is root, and if so sets the background color to red. If not, it sets the background color to my default color as used by the (in my case) Catppuccin theme I am using. Set to whatever hexadecimal color code you prefer.
 
 > [!NOTE]
-> I use the same profile configuration for my regular user as well as root. If you do not, just use one of the `printf [..]` lines above where appropiate in your profile for whatever profile you are setting up.
+> I use the same profile configuration for my regular user as well as root. As such, I do checks and have conditional actions. If you do not, just use one of the `printf [..]` lines above where appropiate in your profile for whatever profile you are setting up.
 
 ## Results
 
